@@ -1,0 +1,2387 @@
+<things>
+  <meta name="writer" content="NmlWriter.scala" />
+  <meta name="writerGitCommit" content="43f7cbf99e49d0680efed3290f3e61754245be4c" />
+  <meta name="timestamp" content="1693403272395" />
+  <meta name="annotationId" content="64ef45f3010000c500f81920" />
+  <meta name="username" content="Julia Lyudchik" />
+  <parameters>
+    <experiment name="20221220_ExPID87_2ndGel_CA1_Bsn_Shank2_Pan_40XW_15.20.32-ROI" organization="Danzl_Group" description="" />
+    <scale x="150.0" y="150.0" z="300.0" />
+    <offset x="0" y="0" z="0" />
+    <time ms="1693402611310" />
+    <editPosition x="333" y="693" z="172" />
+    <editRotation xRot="0.0" yRot="0.0" zRot="0.0" />
+    <zoomLevel zoom="0.8879999999999993" />
+    <activeNode id="88" />
+  </parameters>
+  <thing id="1" color.r="0.6784313917160034" color.g="0.1411764770746231" color.b="0.05098039284348488" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_001">
+    <nodes>
+      <node id="1" radius="1.0" x="94" y="54" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976162227" />
+      <node id="2" radius="1.0" x="82" y="43" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976163384" />
+    </nodes>
+    <edges>
+      <edge source="1" target="2" />
+    </edges>
+  </thing>
+  <thing id="2" color.r="0.0" color.g="0.0" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_002">
+    <nodes>
+      <node id="3" radius="1.0" x="186" y="98" z="194" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976181704" />
+      <node id="4" radius="1.0" x="200" y="99" z="194" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976183167" />
+    </nodes>
+    <edges>
+      <edge source="3" target="4" />
+    </edges>
+  </thing>
+  <thing id="3" color.r="0.8509804010391235" color.g="0.5215686559677124" color.b="0.07058823853731155" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_003">
+    <nodes>
+      <node id="5" radius="1.0" x="161" y="171" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976192850" />
+      <node id="6" radius="1.0" x="167" y="183" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976194042" />
+    </nodes>
+    <edges>
+      <edge source="5" target="6" />
+    </edges>
+  </thing>
+  <thing id="5" color.r="1.0" color.g="0.8392156958580017" color.b="0.239215686917305" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_005">
+    <nodes>
+      <node id="9" radius="1.0" x="554" y="28" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976216906" />
+      <node id="10" radius="1.0" x="570" y="35" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976218022" />
+    </nodes>
+    <edges>
+      <edge source="9" target="10" />
+    </edges>
+  </thing>
+  <thing id="6" color.r="0.0784313753247261" color.g="0.4000000059604645" color.b="0.4901960790157318" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_006">
+    <nodes>
+      <node id="11" radius="1.0" x="292" y="597" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976223107" />
+      <node id="12" radius="1.0" x="309" y="611" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976224096" />
+    </nodes>
+    <edges>
+      <edge source="11" target="12" />
+    </edges>
+  </thing>
+  <thing id="7" color.r="0.9647058844566345" color.g="0.07058823853731155" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_007">
+    <nodes>
+      <node id="13" radius="1.0" x="71" y="534" z="196" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976232726" />
+      <node id="14" radius="1.0" x="65" y="519" z="196" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976233515" />
+    </nodes>
+    <edges>
+      <edge source="13" target="14" />
+    </edges>
+  </thing>
+  <thing id="8" color.r="0.9647058844566345" color.g="0.6196078658103943" color.b="0.8627451062202454" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_008">
+    <nodes>
+      <node id="15" radius="1.0" x="257" y="517" z="193" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976237957" />
+      <node id="16" radius="1.0" x="249" y="533" z="193" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976239414" />
+    </nodes>
+    <edges>
+      <edge source="15" target="16" />
+    </edges>
+  </thing>
+  <thing id="9" color.r="0.7215686440467834" color.g="0.05882352963089943" color.b="0.8196078538894653" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_009">
+    <nodes>
+      <node id="17" radius="1.0" x="263" y="233" z="193" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976243064" />
+      <node id="18" radius="1.0" x="253" y="246" z="193" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976244130" />
+    </nodes>
+    <edges>
+      <edge source="17" target="18" />
+    </edges>
+  </thing>
+  <thing id="10" color.r="0.4117647111415863" color.g="0.8313725590705872" color.b="0.0313725508749485" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_010">
+    <nodes>
+      <node id="19" radius="1.0" x="606" y="354" z="189" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976262458" />
+      <node id="20" radius="1.0" x="606" y="338" z="189" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976263612" />
+    </nodes>
+    <edges>
+      <edge source="19" target="20" />
+    </edges>
+  </thing>
+  <thing id="11" color.r="0.45098039507865906" color.g="0.239215686917305" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_011">
+    <nodes>
+      <node id="21" radius="1.0" x="652" y="119" z="185" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976273858" />
+      <node id="22" radius="1.0" x="657" y="107" z="185" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976274808" />
+    </nodes>
+    <edges>
+      <edge source="21" target="22" />
+    </edges>
+  </thing>
+  <thing id="12" color.r="0.239215686917305" color.g="0.7803921699523926" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_012">
+    <nodes>
+      <node id="23" radius="1.0" x="156" y="73" z="198" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976345981" />
+      <node id="24" radius="1.0" x="171" y="61" z="198" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976346708" />
+    </nodes>
+    <edges>
+      <edge source="23" target="24" />
+    </edges>
+  </thing>
+  <thing id="13" color.r="1.0" color.g="1.0" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_013">
+    <nodes>
+      <node id="25" radius="1.0" x="448" y="682" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976365625" />
+      <node id="26" radius="1.0" x="439" y="669" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976367083" />
+    </nodes>
+    <edges>
+      <edge source="25" target="26" />
+    </edges>
+  </thing>
+  <thing id="14" color.r="0.5490196347236633" color.g="0.2705882489681244" color.b="0.07058823853731155" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_014">
+    <nodes>
+      <node id="27" radius="1.0" x="378" y="693" z="197" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976389929" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="15" color.r="0.0" color.g="0.4000000059604645" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_015">
+    <nodes>
+      <node id="28" radius="1.0" x="684" y="479" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976411155" />
+      <node id="29" radius="1.0" x="695" y="468" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976412051" />
+    </nodes>
+    <edges>
+      <edge source="28" target="29" />
+    </edges>
+  </thing>
+  <thing id="17" color.r="0.929411768913269" color.g="0.8470588326454163" color.b="0.6784313917160034" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_017">
+    <nodes>
+      <node id="32" radius="4.3219423" x="213" y="422" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976455243" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="18" color.r="0.5176470875740051" color.g="0.4470588266849518" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_018">
+    <nodes>
+      <node id="33" radius="1.0" x="150" y="373" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688976470579" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="19" color.r="0.4470588266849518" color.g="0.9647058844566345" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_019">
+    <nodes>
+      <node id="34" radius="1.0" x="231" y="174" z="174" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999784475" />
+      <node id="35" radius="1.0" x="231" y="191" z="174" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999785629" />
+    </nodes>
+    <edges>
+      <edge source="34" target="35" />
+    </edges>
+  </thing>
+  <thing id="21" color.r="0.4470588266849518" color.g="0.7843137383460999" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_021">
+    <nodes>
+      <node id="38" radius="1.0" x="678" y="268" z="176" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999863639" />
+      <node id="39" radius="1.0" x="674" y="251" z="176" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999864675" />
+    </nodes>
+    <edges>
+      <edge source="38" target="39" />
+    </edges>
+  </thing>
+  <thing id="22" color.r="0.6196078658103943" color.g="0.0" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_022">
+    <nodes>
+      <node id="40" radius="1.0" x="37" y="512" z="175" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999885519" />
+      <node id="41" radius="1.0" x="38" y="526" z="175" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999887573" />
+    </nodes>
+    <edges>
+      <edge source="40" target="41" />
+    </edges>
+  </thing>
+  <thing id="23" color.r="0.0" color.g="0.30980393290519714" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_023">
+    <nodes>
+      <node id="42" radius="1.0" x="71" y="578" z="167" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999897205" />
+      <node id="43" radius="1.0" x="83" y="592" z="167" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999898591" />
+    </nodes>
+    <edges>
+      <edge source="42" target="43" />
+    </edges>
+  </thing>
+  <thing id="24" color.r="0.0" color.g="0.27450981736183167" color.b="0.5843137502670288" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_024">
+    <nodes>
+      <node id="44" radius="1.0" x="150" y="584" z="184" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999909631" />
+      <node id="45" radius="1.0" x="148" y="602" z="184" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999910740" />
+    </nodes>
+    <edges>
+      <edge source="44" target="45" />
+    </edges>
+  </thing>
+  <thing id="26" color.r="0.7254902124404907" color.g="0.30980393290519714" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_026">
+    <nodes>
+      <node id="48" radius="1.0" x="214" y="418" z="172" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999940912" />
+      <node id="49" radius="1.0" x="231" y="414" z="172" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999941661" />
+    </nodes>
+    <edges>
+      <edge source="48" target="49" />
+    </edges>
+  </thing>
+  <thing id="27" color.r="0.24313725531101227" color.g="0.0" color.b="0.10196078568696976" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_027">
+    <nodes>
+      <node id="50" radius="1.0" x="119" y="485" z="167" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999958272" />
+      <node id="51" radius="1.0" x="125" y="466" z="167" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999959725" />
+    </nodes>
+    <edges>
+      <edge source="50" target="51" />
+    </edges>
+  </thing>
+  <thing id="28" color.r="0.929411768913269" color.g="1.0" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_028">
+    <nodes>
+      <node id="52" radius="1.0" x="103" y="329" z="147" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999986153" />
+      <node id="53" radius="1.0" x="117" y="323" z="147" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1688999987375" />
+    </nodes>
+    <edges>
+      <edge source="52" target="53" />
+    </edges>
+  </thing>
+  <thing id="29" color.r="1.0" color.g="0.48235294222831726" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_029">
+    <nodes>
+      <node id="54" radius="1.0" x="166" y="359" z="141" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000000985" />
+      <node id="55" radius="1.0" x="147" y="364" z="141" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000002110" />
+    </nodes>
+    <edges>
+      <edge source="54" target="55" />
+    </edges>
+  </thing>
+  <thing id="30" color.r="0.27450981736183167" color.g="1.0" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_030">
+    <nodes>
+      <node id="56" radius="1.0" x="236" y="343" z="150" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000011496" />
+      <node id="57" radius="1.0" x="248" y="357" z="150" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000012974" />
+    </nodes>
+    <edges>
+      <edge source="56" target="57" />
+    </edges>
+  </thing>
+  <thing id="31" color.r="0.07058823853731155" color.g="0.6549019813537598" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_031">
+    <nodes>
+      <node id="58" radius="1.0" x="200" y="223" z="192" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000073851" />
+      <node id="59" radius="1.0" x="206" y="229" z="184" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000075517" />
+    </nodes>
+    <edges>
+      <edge source="58" target="59" />
+    </edges>
+  </thing>
+  <thing id="32" color.r="0.8274509906768799" color.g="0.6549019813537598" color.b="0.6549019813537598" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_032">
+    <nodes>
+      <node id="60" radius="1.0" x="28" y="90" z="172" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000108490" />
+      <node id="61" radius="1.0" x="12" y="88" z="172" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000109390" />
+    </nodes>
+    <edges>
+      <edge source="60" target="61" />
+    </edges>
+  </thing>
+  <thing id="33" color.r="0.8274509906768799" color.g="0.30980393290519714" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_033">
+    <nodes>
+      <node id="62" radius="1.0" x="109" y="65" z="157" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000133789" />
+      <node id="63" radius="1.0" x="122" y="65" z="151" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000136570" />
+    </nodes>
+    <edges>
+      <edge source="62" target="63" />
+    </edges>
+  </thing>
+  <thing id="34" color.r="0.4156862795352936" color.g="0.0" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_034">
+    <nodes>
+      <node id="64" radius="1.0" x="59" y="44" z="170" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000155434" />
+      <node id="65" radius="1.0" x="55" y="36" z="181" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000159008" />
+    </nodes>
+    <edges>
+      <edge source="64" target="65" />
+    </edges>
+  </thing>
+  <thing id="36" color.r="0.0" color.g="0.5843137502670288" color.b="0.9647058844566345" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_036">
+    <nodes>
+      <node id="68" radius="1.0" x="333" y="142" z="159" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000310829" />
+      <node id="69" radius="1.0" x="345" y="155" z="159" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000311690" />
+    </nodes>
+    <edges>
+      <edge source="68" target="69" />
+    </edges>
+  </thing>
+  <thing id="37" color.r="0.03529411926865578" color.g="0.24313725531101227" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_037">
+    <nodes>
+      <node id="70" radius="1.0" x="79" y="257" z="159" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000320603" />
+      <node id="71" radius="1.0" x="97" y="258" z="159" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000321730" />
+    </nodes>
+    <edges>
+      <edge source="70" target="71" />
+    </edges>
+  </thing>
+  <thing id="38" color.r="0.6549019813537598" color.g="0.3450980484485626" color.b="0.03529411926865578" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_038">
+    <nodes>
+      <node id="72" radius="1.0" x="150" y="222" z="161" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000357332" />
+      <node id="73" radius="1.0" x="134" y="222" z="161" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000358599" />
+    </nodes>
+    <edges>
+      <edge source="72" target="73" />
+    </edges>
+  </thing>
+  <thing id="40" color.r="0.03529411926865578" color.g="0.5843137502670288" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_040">
+    <nodes>
+      <node id="76" radius="1.0" x="667" y="395" z="164" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000395069" />
+      <node id="77" radius="1.0" x="682" y="399" z="164" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000395780" />
+    </nodes>
+    <edges>
+      <edge source="76" target="77" />
+    </edges>
+  </thing>
+  <thing id="41" color.r="0.6196078658103943" color.g="0.19607843458652496" color.b="0.7254902124404907" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_041">
+    <nodes>
+      <node id="78" radius="1.0" x="634" y="317" z="163" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000403373" />
+      <node id="79" radius="1.0" x="628" y="305" z="163" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000404200" />
+    </nodes>
+    <edges>
+      <edge source="78" target="79" />
+    </edges>
+  </thing>
+  <thing id="42" color.r="1.0" color.g="1.0" color.b="0.4470588266849518" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_042">
+    <nodes>
+      <node id="80" radius="1.0" x="636" y="247" z="146" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000413831" />
+      <node id="81" radius="1.0" x="630" y="263" z="146" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000415723" />
+    </nodes>
+    <edges>
+      <edge source="80" target="81" />
+    </edges>
+  </thing>
+  <thing id="43" color.r="0.6549019813537598" color.g="0.9647058844566345" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_043">
+    <nodes>
+      <node id="82" radius="1.0" x="333" y="648" z="166" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000428600" />
+      <node id="83" radius="1.0" x="345" y="639" z="166" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000430179" />
+    </nodes>
+    <edges>
+      <edge source="82" target="83" />
+    </edges>
+  </thing>
+  <thing id="44" color.r="0.5843137502670288" color.g="0.3921568691730499" color.b="0.7254902124404907" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_044">
+    <nodes>
+      <node id="84" radius="1.0" x="253" y="527" z="161" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000437915" />
+      <node id="85" radius="1.0" x="244" y="512" z="161" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000439187" />
+    </nodes>
+    <edges>
+      <edge source="84" target="85" />
+    </edges>
+  </thing>
+  <thing id="45" color.r="0.6901960968971252" color.g="0.6901960968971252" color.b="0.03529411926865578" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_045">
+    <nodes>
+      <node id="86" radius="1.0" x="252" y="673" z="170" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000453007" />
+      <node id="87" radius="1.0" x="236" y="664" z="170" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000454028" />
+    </nodes>
+    <edges>
+      <edge source="86" target="87" />
+    </edges>
+  </thing>
+  <thing id="46" color.r="0.1725490242242813" color.g="0.0" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_046">
+    <nodes>
+      <node id="88" radius="1.0" x="333" y="693" z="172" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000463686" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="47" color.r="0.0" color.g="0.7921568751335144" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_047">
+    <nodes>
+      <node id="89" radius="1.0" x="140" y="392" z="165" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000535096" />
+      <node id="90" radius="1.0" x="132" y="380" z="152" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000539337" />
+    </nodes>
+    <edges>
+      <edge source="89" target="90" />
+    </edges>
+  </thing>
+  <thing id="48" color.r="0.30980393290519714" color.g="0.13725490868091583" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_048">
+    <nodes>
+      <node id="91" radius="1.0" x="48" y="399" z="145" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000559286" />
+      <node id="92" radius="1.0" x="63" y="410" z="145" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000560669" />
+    </nodes>
+    <edges>
+      <edge source="91" target="92" />
+    </edges>
+  </thing>
+  <thing id="49" color.r="0.0" color.g="0.7254902124404907" color.b="0.6549019813537598" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_049">
+    <nodes>
+      <node id="93" radius="1.0" x="92" y="400" z="140" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000581223" />
+      <node id="94" radius="1.0" x="100" y="412" z="131" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000582865" />
+    </nodes>
+    <edges>
+      <edge source="93" target="94" />
+    </edges>
+  </thing>
+  <thing id="50" color.r="0.6196078658103943" color.g="0.0" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_050">
+    <nodes>
+      <node id="95" radius="1.0" x="44" y="468" z="145" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000618052" />
+      <node id="96" radius="1.0" x="56" y="458" z="145" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000620406" />
+    </nodes>
+    <edges>
+      <edge source="95" target="96" />
+    </edges>
+  </thing>
+  <thing id="51" color.r="0.30980393290519714" color.g="0.48235294222831726" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_051">
+    <nodes>
+      <node id="97" radius="1.0" x="438" y="547" z="131" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000632584" />
+      <node id="98" radius="1.0" x="422" y="539" z="131" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000633710" />
+    </nodes>
+    <edges>
+      <edge source="97" target="98" />
+    </edges>
+  </thing>
+  <thing id="52" color.r="0.10196078568696976" color.g="0.27450981736183167" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_052">
+    <nodes>
+      <node id="99" radius="1.0" x="698" y="479" z="142" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000647805" />
+      <node id="100" radius="1.0" x="689" y="491" z="142" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000648556" />
+    </nodes>
+    <edges>
+      <edge source="99" target="100" />
+    </edges>
+  </thing>
+  <thing id="53" color.r="0.3450980484485626" color.g="0.8274509906768799" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_053">
+    <nodes>
+      <node id="101" radius="1.0" x="360" y="298" z="142" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000664688" />
+      <node id="102" radius="1.0" x="352" y="280" z="142" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000665958" />
+    </nodes>
+    <edges>
+      <edge source="101" target="102" />
+    </edges>
+  </thing>
+  <thing id="54" color.r="0.4470588266849518" color.g="0.5843137502670288" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_054">
+    <nodes>
+      <node id="103" radius="1.0" x="437" y="274" z="143" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000673768" />
+      <node id="104" radius="1.0" x="454" y="278" z="143" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000674729" />
+    </nodes>
+    <edges>
+      <edge source="103" target="104" />
+    </edges>
+  </thing>
+  <thing id="55" color.r="0.8980392217636108" color.g="0.6549019813537598" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_055">
+    <nodes>
+      <node id="105" radius="1.0" x="194" y="564" z="138" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000695760" />
+      <node id="106" radius="1.0" x="195" y="580" z="138" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000697094" />
+    </nodes>
+    <edges>
+      <edge source="105" target="106" />
+    </edges>
+  </thing>
+  <thing id="56" color.r="0.9647058844566345" color.g="0.5529412031173706" color.b="0.5843137502670288" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_056">
+    <nodes>
+      <node id="107" radius="1.0" x="341" y="538" z="148" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000713200" />
+      <node id="108" radius="1.0" x="331" y="568" z="151" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000716904" />
+    </nodes>
+    <edges>
+      <edge source="107" target="108" />
+    </edges>
+  </thing>
+  <thing id="57" color.r="0.4156862795352936" color.g="0.07058823853731155" color.b="0.5529412031173706" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_057">
+    <nodes>
+      <node id="109" radius="1.0" x="283" y="359" z="182" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000737686" />
+      <node id="110" radius="1.0" x="267" y="355" z="182" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000738632" />
+    </nodes>
+    <edges>
+      <edge source="109" target="110" />
+    </edges>
+  </thing>
+  <thing id="58" color.r="0.8980392217636108" color.g="0.3803921639919281" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_058">
+    <nodes>
+      <node id="111" radius="1.0" x="327" y="404" z="180" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000753969" />
+      <node id="112" radius="1.0" x="343" y="416" z="180" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000755213" />
+    </nodes>
+    <edges>
+      <edge source="111" target="112" />
+    </edges>
+  </thing>
+  <thing id="59" color.r="0.929411768913269" color.g="0.8274509906768799" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_059">
+    <nodes>
+      <node id="113" radius="1.0" x="526" y="287" z="168" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000788050" />
+      <node id="114" radius="1.0" x="530" y="295" z="156" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000791591" />
+    </nodes>
+    <edges>
+      <edge source="113" target="114" />
+    </edges>
+  </thing>
+  <thing id="60" color.r="0.6196078658103943" color.g="1.0" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_060">
+    <nodes>
+      <node id="115" radius="1.0" x="596" y="271" z="133" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000815250" />
+      <node id="116" radius="1.0" x="612" y="265" z="127" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000818355" />
+    </nodes>
+    <edges>
+      <edge source="115" target="116" />
+    </edges>
+  </thing>
+  <thing id="61" color.r="1.0" color.g="0.30980393290519714" color.b="0.9647058844566345" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_061">
+    <nodes>
+      <node id="117" radius="1.0" x="650" y="362" z="109" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000829174" />
+      <node id="118" radius="1.0" x="659" y="353" z="109" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000830742" />
+    </nodes>
+    <edges>
+      <edge source="117" target="118" />
+    </edges>
+  </thing>
+  <thing id="62" color.r="0.5843137502670288" color.g="0.3803921639919281" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_062">
+    <nodes>
+      <node id="119" radius="1.0" x="557" y="387" z="104" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000838648" />
+      <node id="120" radius="1.0" x="568" y="385" z="109" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000840737" />
+    </nodes>
+    <edges>
+      <edge source="119" target="120" />
+    </edges>
+  </thing>
+  <thing id="63" color.r="0.7568627595901489" color.g="0.7254902124404907" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_063">
+    <nodes>
+      <node id="121" radius="1.0" x="426" y="372" z="118" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000852787" />
+      <node id="122" radius="1.0" x="440" y="363" z="118" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000854233" />
+    </nodes>
+    <edges>
+      <edge source="121" target="122" />
+    </edges>
+  </thing>
+  <thing id="64" color.r="0.929411768913269" color.g="0.1725490242242813" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_064">
+    <nodes>
+      <node id="123" radius="1.0" x="551" y="435" z="123" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000859706" />
+      <node id="124" radius="1.0" x="541" y="423" z="123" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000860769" />
+    </nodes>
+    <edges>
+      <edge source="123" target="124" />
+    </edges>
+  </thing>
+  <thing id="65" color.r="0.6901960968971252" color.g="0.4156862795352936" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_065">
+    <nodes>
+      <node id="125" radius="1.0" x="637" y="492" z="113" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000867638" />
+      <node id="126" radius="1.0" x="631" y="481" z="113" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000868629" />
+    </nodes>
+    <edges>
+      <edge source="125" target="126" />
+    </edges>
+  </thing>
+  <thing id="66" color.r="0.27450981736183167" color.g="0.1725490242242813" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_066">
+    <nodes>
+      <node id="127" radius="1.0" x="226" y="413" z="97" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000888283" />
+      <node id="128" radius="1.0" x="239" y="429" z="97" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000889633" />
+    </nodes>
+    <edges>
+      <edge source="127" target="128" />
+    </edges>
+  </thing>
+  <thing id="67" color.r="0.7254902124404907" color.g="0.5176470875740051" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_067">
+    <nodes>
+      <node id="129" radius="1.0" x="71" y="255" z="96" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000896005" />
+      <node id="130" radius="1.0" x="79" y="271" z="96" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000896713" />
+    </nodes>
+    <edges>
+      <edge source="129" target="130" />
+    </edges>
+  </thing>
+  <thing id="68" color.r="0.5529412031173706" color.g="0.03529411926865578" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_068">
+    <nodes>
+      <node id="131" radius="1.0" x="139" y="365" z="88" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000909282" />
+      <node id="132" radius="1.0" x="119" y="369" z="88" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000913553" />
+      <node id="133" radius="1.0" x="150" y="384" z="92" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689000918626" />
+    </nodes>
+    <edges>
+      <edge source="131" target="132" />
+      <edge source="131" target="133" />
+    </edges>
+  </thing>
+  <thing id="70" color.r="0.8627451062202454" color.g="0.8274509906768799" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_070">
+    <nodes>
+      <node id="136" radius="1.0" x="495" y="374" z="110" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004250873" />
+      <node id="137" radius="1.0" x="483" y="384" z="110" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004252001" />
+    </nodes>
+    <edges>
+      <edge source="136" target="137" />
+    </edges>
+  </thing>
+  <thing id="72" color.r="0.0" color.g="0.0" color.b="0.03529411926865578" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_072">
+    <nodes>
+      <node id="140" radius="1.0" x="220" y="633" z="110" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004268041" />
+      <node id="141" radius="1.0" x="205" y="626" z="110" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004269139" />
+    </nodes>
+    <edges>
+      <edge source="140" target="141" />
+    </edges>
+  </thing>
+  <thing id="73" color.r="0.3803921639919281" color.g="0.24313725531101227" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_073">
+    <nodes>
+      <node id="142" radius="1.0" x="69" y="529" z="119" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004276880" />
+      <node id="143" radius="1.0" x="81" y="536" z="119" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004277804" />
+    </nodes>
+    <edges>
+      <edge source="142" target="143" />
+    </edges>
+  </thing>
+  <thing id="74" color.r="0.929411768913269" color.g="0.0" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_074">
+    <nodes>
+      <node id="144" radius="1.0" x="98" y="687" z="127" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004291947" />
+      <node id="145" radius="1.0" x="95" y="672" z="127" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004292833" />
+    </nodes>
+    <edges>
+      <edge source="144" target="145" />
+    </edges>
+  </thing>
+  <thing id="75" color.r="0.6901960968971252" color.g="0.0" color.b="0.5843137502670288" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_075">
+    <nodes>
+      <node id="146" radius="1.0" x="287" y="601" z="130" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004303569" />
+      <node id="147" radius="1.0" x="283" y="587" z="130" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004304512" />
+    </nodes>
+    <edges>
+      <edge source="146" target="147" />
+    </edges>
+  </thing>
+  <thing id="76" color.r="0.4156862795352936" color.g="0.0" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_076">
+    <nodes>
+      <node id="148" radius="1.0" x="95" y="213" z="124" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004342700" />
+      <node id="149" radius="1.0" x="109" y="217" z="124" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004343990" />
+    </nodes>
+    <edges>
+      <edge source="148" target="149" />
+    </edges>
+  </thing>
+  <thing id="77" color.r="0.7254902124404907" color.g="0.6549019813537598" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_077">
+    <nodes>
+      <node id="150" radius="1.0" x="122" y="101" z="116" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004376036" />
+      <node id="151" radius="1.0" x="109" y="103" z="116" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004376974" />
+    </nodes>
+    <edges>
+      <edge source="150" target="151" />
+    </edges>
+  </thing>
+  <thing id="78" color.r="0.6549019813537598" color.g="0.19607843458652496" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_078">
+    <nodes>
+      <node id="152" radius="1.0" x="186" y="80" z="123" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004380785" />
+      <node id="153" radius="1.0" x="170" y="79" z="123" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004381602" />
+    </nodes>
+    <edges>
+      <edge source="152" target="153" />
+    </edges>
+  </thing>
+  <thing id="79" color.r="0.5176470875740051" color.g="0.1725490242242813" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_079">
+    <nodes>
+      <node id="154" radius="1.0" x="157" y="155" z="136" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004393003" />
+      <node id="155" radius="1.0" x="147" y="161" z="136" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004393907" />
+    </nodes>
+    <edges>
+      <edge source="154" target="155" />
+    </edges>
+  </thing>
+  <thing id="80" color.r="0.4470588266849518" color.g="0.19607843458652496" color.b="0.4470588266849518" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_080">
+    <nodes>
+      <node id="156" radius="1.0" x="308" y="229" z="139" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004404460" />
+      <node id="157" radius="1.0" x="295" y="228" z="139" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004405230" />
+    </nodes>
+    <edges>
+      <edge source="156" target="157" />
+    </edges>
+  </thing>
+  <thing id="81" color.r="0.8627451062202454" color.g="0.27450981736183167" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_081">
+    <nodes>
+      <node id="158" radius="1.0" x="57" y="223" z="135" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004423512" />
+      <node id="159" radius="1.0" x="68" y="239" z="135" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004424486" />
+    </nodes>
+    <edges>
+      <edge source="158" target="159" />
+    </edges>
+  </thing>
+  <thing id="82" color.r="0.03529411926865578" color.g="0.2078431397676468" color.b="0.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_082">
+    <nodes>
+      <node id="160" radius="1.0" x="368" y="139" z="139" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004432455" />
+      <node id="161" radius="1.0" x="359" y="130" z="139" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004433223" />
+    </nodes>
+    <edges>
+      <edge source="160" target="161" />
+    </edges>
+  </thing>
+  <thing id="83" color.r="0.5843137502670288" color.g="0.7921568751335144" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_083">
+    <nodes>
+      <node id="162" radius="1.0" x="388" y="117" z="142" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004440866" />
+      <node id="163" radius="1.0" x="389" y="106" z="150" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004442235" />
+    </nodes>
+    <edges>
+      <edge source="162" target="163" />
+    </edges>
+  </thing>
+  <thing id="84" color.r="0.0" color.g="0.07058823853731155" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_084">
+    <nodes>
+      <node id="164" radius="1.0" x="594" y="398" z="127" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004463952" />
+      <node id="165" radius="1.0" x="592" y="381" z="127" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004464764" />
+    </nodes>
+    <edges>
+      <edge source="164" target="165" />
+    </edges>
+  </thing>
+  <thing id="85" color.r="0.7254902124404907" color.g="0.929411768913269" color.b="1.0" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_085">
+    <nodes>
+      <node id="166" radius="1.0" x="245" y="40" z="157" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004483290" />
+      <node id="167" radius="1.0" x="256" y="37" z="157" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004484182" />
+    </nodes>
+    <edges>
+      <edge source="166" target="167" />
+    </edges>
+  </thing>
+  <thing id="86" color.r="0.3450980484485626" color.g="0.24313725531101227" color.b="0.5843137502670288" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_086">
+    <nodes>
+      <node id="168" radius="1.0" x="302" y="698" z="100" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004565496" />
+      <node id="169" radius="1.0" x="305" y="685" z="100" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004566163" />
+    </nodes>
+    <edges>
+      <edge source="168" target="169" />
+    </edges>
+  </thing>
+  <thing id="87" color.r="0.27450981736183167" color.g="0.5176470875740051" color.b="0.27450981736183167" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_087">
+    <nodes>
+      <node id="170" radius="1.0" x="297" y="628" z="112" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004594908" />
+      <node id="171" radius="1.0" x="309" y="638" z="112" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004595985" />
+    </nodes>
+    <edges>
+      <edge source="170" target="171" />
+    </edges>
+  </thing>
+  <thing id="88" color.r="0.6901960968971252" color.g="1.0" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_088">
+    <nodes>
+      <node id="172" radius="1.0" x="143" y="576" z="93" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004612015" />
+      <node id="173" radius="1.0" x="131" y="566" z="93" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004612808" />
+    </nodes>
+    <edges>
+      <edge source="172" target="173" />
+    </edges>
+  </thing>
+  <thing id="89" color.r="0.27450981736183167" color.g="0.7921568751335144" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_089">
+    <nodes>
+      <node id="174" radius="1.0" x="33" y="385" z="141" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004805976" />
+      <node id="175" radius="1.0" x="19" y="381" z="141" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004806734" />
+    </nodes>
+    <edges>
+      <edge source="174" target="175" />
+    </edges>
+  </thing>
+  <thing id="90" color.r="0.8980392217636108" color.g="0.3450980484485626" color.b="0.4156862795352936" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_090">
+    <nodes>
+      <node id="176" radius="1.0" x="152" y="410" z="131" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004857195" />
+      <node id="177" radius="1.0" x="153" y="402" z="143" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004859719" />
+    </nodes>
+    <edges>
+      <edge source="176" target="177" />
+    </edges>
+  </thing>
+  <thing id="91" color.r="0.929411768913269" color.g="0.5529412031173706" color.b="0.27450981736183167" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_091">
+    <nodes>
+      <node id="178" radius="1.0" x="73" y="25" z="130" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004903492" />
+      <node id="179" radius="1.0" x="91" y="29" z="130" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004904370" />
+    </nodes>
+    <edges>
+      <edge source="178" target="179" />
+    </edges>
+  </thing>
+  <thing id="92" color.r="0.48235294222831726" color.g="0.30980393290519714" color.b="0.07058823853731155" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_092">
+    <nodes>
+      <node id="180" radius="1.0" x="22" y="7" z="141" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004909199" />
+      <node id="181" radius="1.0" x="8" y="2" z="141" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004910328" />
+    </nodes>
+    <edges>
+      <edge source="180" target="181" />
+    </edges>
+  </thing>
+  <thing id="93" color.r="0.3803921639919281" color.g="0.4470588266849518" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_093">
+    <nodes>
+      <node id="182" radius="1.0" x="195" y="33" z="111" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004968883" />
+      <node id="183" radius="1.0" x="181" y="42" z="111" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004969959" />
+    </nodes>
+    <edges>
+      <edge source="182" target="183" />
+    </edges>
+  </thing>
+  <thing id="94" color.r="0.0" color.g="1.0" color.b="0.929411768913269" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_094">
+    <nodes>
+      <node id="184" radius="1.0" x="156" y="20" z="113" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004973905" />
+      <node id="185" radius="1.0" x="161" y="31" z="107" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689004976222" />
+    </nodes>
+    <edges>
+      <edge source="184" target="185" />
+    </edges>
+  </thing>
+  <thing id="95" color.r="0.30980393290519714" color.g="0.5843137502670288" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-10_Mojtaba_Tavakoli_095">
+    <nodes>
+      <node id="186" radius="1.0" x="31" y="300" z="95" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689005003755" />
+      <node id="187" radius="1.0" x="44" y="294" z="95" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689005004891" />
+    </nodes>
+    <edges>
+      <edge source="186" target="187" />
+    </edges>
+  </thing>
+  <thing id="96" color.r="0.7254902124404907" color.g="0.0" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_096">
+    <nodes>
+      <node id="188" radius="1.0" x="169" y="440" z="89" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078068323" />
+      <node id="189" radius="1.0" x="166" y="429" z="93" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078070679" />
+    </nodes>
+    <edges>
+      <edge source="188" target="189" />
+    </edges>
+  </thing>
+  <thing id="97" color.r="1.0" color.g="0.8627451062202454" color.b="0.4470588266849518" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_097">
+    <nodes>
+      <node id="190" radius="1.0" x="238" y="514" z="96" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078131669" />
+      <node id="191" radius="1.0" x="227" y="523" z="96" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078133538" />
+    </nodes>
+    <edges>
+      <edge source="190" target="191" />
+    </edges>
+  </thing>
+  <thing id="98" color.r="0.07058823853731155" color.g="0.13725490868091583" color.b="0.7254902124404907" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_098">
+    <nodes>
+      <node id="192" radius="1.0" x="62" y="572" z="125" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078158843" />
+      <node id="193" radius="1.0" x="55" y="577" z="131" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078161343" />
+    </nodes>
+    <edges>
+      <edge source="192" target="193" />
+    </edges>
+  </thing>
+  <thing id="99" color.r="0.6549019813537598" color.g="0.0" color.b="0.4156862795352936" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_099">
+    <nodes>
+      <node id="194" radius="1.0" x="91" y="218" z="184" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078204271" />
+      <node id="195" radius="1.0" x="102" y="215" z="189" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078206075" />
+    </nodes>
+    <edges>
+      <edge source="194" target="195" />
+    </edges>
+  </thing>
+  <thing id="100" color.r="0.6196078658103943" color.g="0.4470588266849518" color.b="0.4156862795352936" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_100">
+    <nodes>
+      <node id="196" radius="1.0" x="156" y="389" z="180" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078232059" />
+      <node id="197" radius="1.0" x="169" y="376" z="180" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078233598" />
+    </nodes>
+    <edges>
+      <edge source="196" target="197" />
+    </edges>
+  </thing>
+  <thing id="101" color.r="0.10196078568696976" color.g="0.7254902124404907" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_101">
+    <nodes>
+      <node id="198" radius="1.0" x="491" y="40" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078298123" />
+      <node id="199" radius="1.0" x="494" y="27" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078299304" />
+    </nodes>
+    <edges>
+      <edge source="198" target="199" />
+    </edges>
+  </thing>
+  <thing id="102" color.r="0.0" color.g="0.1725490242242813" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_102">
+    <nodes>
+      <node id="200" radius="1.0" x="343" y="11" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078329324" />
+      <node id="201" radius="1.0" x="341" y="17" z="186" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078332497" />
+    </nodes>
+    <edges>
+      <edge source="200" target="201" />
+    </edges>
+  </thing>
+  <thing id="103" color.r="0.5843137502670288" color.g="0.9803921580314636" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_103">
+    <nodes>
+      <node id="202" radius="1.0" x="230" y="5" z="182" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078341291" />
+      <node id="203" radius="1.0" x="243" y="7" z="182" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689078342441" />
+    </nodes>
+    <edges>
+      <edge source="202" target="203" />
+    </edges>
+  </thing>
+  <thing id="104" color.r="0.6901960968971252" color.g="0.8274509906768799" color.b="0.03529411926865578" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_104">
+    <nodes>
+      <node id="204" radius="1.0" x="209" y="268" z="89" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079293657" />
+      <node id="205" radius="1.0" x="221" y="265" z="84" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079295750" />
+    </nodes>
+    <edges>
+      <edge source="204" target="205" />
+    </edges>
+  </thing>
+  <thing id="105" color.r="0.7254902124404907" color.g="0.27450981736183167" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_105">
+    <nodes>
+      <node id="206" radius="1.0" x="429" y="294" z="82" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079309035" />
+      <node id="207" radius="1.0" x="420" y="303" z="82" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079311074" />
+    </nodes>
+    <edges>
+      <edge source="206" target="207" />
+    </edges>
+  </thing>
+  <thing id="106" color.r="0.0" color.g="0.4470588266849518" color.b="1.0" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_106">
+    <nodes>
+      <node id="208" radius="1.0" x="384" y="134" z="84" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079335079" />
+      <node id="209" radius="1.0" x="374" y="121" z="84" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079336729" />
+    </nodes>
+    <edges>
+      <edge source="208" target="209" />
+    </edges>
+  </thing>
+  <thing id="107" color.r="1.0" color.g="0.9647058844566345" color.b="0.0" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_107">
+    <nodes>
+      <node id="210" radius="1.0" x="419" y="118" z="79" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079342922" />
+      <node id="211" radius="1.0" x="409" y="113" z="90" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079346663" />
+    </nodes>
+    <edges>
+      <edge source="210" target="211" />
+    </edges>
+  </thing>
+  <thing id="108" color.r="0.3803921639919281" color.g="0.6549019813537598" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_108">
+    <nodes>
+      <node id="212" radius="1.0" x="323" y="457" z="79" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079354089" />
+      <node id="213" radius="1.0" x="323" y="443" z="79" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079355409" />
+    </nodes>
+    <edges>
+      <edge source="212" target="213" />
+    </edges>
+  </thing>
+  <thing id="109" color.r="0.3450980484485626" color.g="0.8274509906768799" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_109">
+    <nodes>
+      <node id="214" radius="1.0" x="519" y="483" z="79" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079364676" />
+      <node id="215" radius="1.0" x="504" y="489" z="79" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079366192" />
+    </nodes>
+    <edges>
+      <edge source="214" target="215" />
+    </edges>
+  </thing>
+  <thing id="110" color.r="0.4470588266849518" color.g="0.27450981736183167" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_110">
+    <nodes>
+      <node id="216" radius="1.0" x="626" y="513" z="90" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079372667" />
+      <node id="217" radius="1.0" x="614" y="501" z="90" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079374003" />
+    </nodes>
+    <edges>
+      <edge source="216" target="217" />
+    </edges>
+  </thing>
+  <thing id="111" color.r="0.5529412031173706" color.g="0.7921568751335144" color.b="0.7254902124404907" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_111">
+    <nodes>
+      <node id="218" radius="1.0" x="356" y="197" z="61" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079395155" />
+      <node id="219" radius="1.0" x="368" y="194" z="61" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079396167" />
+    </nodes>
+    <edges>
+      <edge source="218" target="219" />
+    </edges>
+  </thing>
+  <thing id="112" color.r="0.07058823853731155" color.g="0.2078431397676468" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_112">
+    <nodes>
+      <node id="220" radius="1.0" x="563" y="559" z="91" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079423221" />
+      <node id="221" radius="1.0" x="554" y="552" z="91" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079424978" />
+    </nodes>
+    <edges>
+      <edge source="220" target="221" />
+    </edges>
+  </thing>
+  <thing id="113" color.r="0.5176470875740051" color.g="1.0" color.b="0.0" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_113">
+    <nodes>
+      <node id="222" radius="1.0" x="310" y="583" z="84" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079433916" />
+      <node id="223" radius="1.0" x="297" y="589" z="84" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079434974" />
+    </nodes>
+    <edges>
+      <edge source="222" target="223" />
+    </edges>
+  </thing>
+  <thing id="114" color.r="0.27450981736183167" color.g="0.4156862795352936" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_114">
+    <nodes>
+      <node id="224" radius="1.0" x="430" y="591" z="76" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079444317" />
+      <node id="225" radius="1.0" x="438" y="581" z="76" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079445618" />
+    </nodes>
+    <edges>
+      <edge source="224" target="225" />
+    </edges>
+  </thing>
+  <thing id="115" color.r="0.0" color.g="0.13725490868091583" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_115">
+    <nodes>
+      <node id="226" radius="1.0" x="368" y="166" z="68" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079469686" />
+      <node id="227" radius="1.0" x="353" y="165" z="68" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079470802" />
+    </nodes>
+    <edges>
+      <edge source="226" target="227" />
+    </edges>
+  </thing>
+  <thing id="116" color.r="0.27450981736183167" color.g="0.0" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_116">
+    <nodes>
+      <node id="228" radius="1.0" x="427" y="285" z="46" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079487578" />
+      <node id="229" radius="1.0" x="419" y="296" z="46" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079488873" />
+    </nodes>
+    <edges>
+      <edge source="228" target="229" />
+    </edges>
+  </thing>
+  <thing id="117" color.r="0.6901960968971252" color.g="0.30980393290519714" color.b="0.5843137502670288" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_117">
+    <nodes>
+      <node id="230" radius="1.0" x="471" y="251" z="45" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079495550" />
+      <node id="231" radius="1.0" x="485" y="250" z="45" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079496457" />
+    </nodes>
+    <edges>
+      <edge source="230" target="231" />
+    </edges>
+  </thing>
+  <thing id="118" color.r="0.7568627595901489" color.g="0.30980393290519714" color.b="1.0" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_118">
+    <nodes>
+      <node id="232" radius="1.0" x="568" y="286" z="45" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079506301" />
+      <node id="233" radius="1.0" x="572" y="295" z="37" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079508121" />
+    </nodes>
+    <edges>
+      <edge source="232" target="233" />
+    </edges>
+  </thing>
+  <thing id="119" color.r="0.8274509906768799" color.g="1.0" color.b="0.5529412031173706" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_119">
+    <nodes>
+      <node id="234" radius="1.0" x="600" y="422" z="60" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079519053" />
+      <node id="235" radius="1.0" x="586" y="412" z="60" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079520010" />
+    </nodes>
+    <edges>
+      <edge source="234" target="235" />
+    </edges>
+  </thing>
+  <thing id="120" color.r="0.03529411926865578" color.g="0.10196078568696976" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_120">
+    <nodes>
+      <node id="236" radius="1.0" x="430" y="526" z="60" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079527381" />
+      <node id="237" radius="1.0" x="419" y="516" z="60" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079528645" />
+    </nodes>
+    <edges>
+      <edge source="236" target="237" />
+    </edges>
+  </thing>
+  <thing id="121" color.r="0.24313725531101227" color.g="0.27450981736183167" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_121">
+    <nodes>
+      <node id="238" radius="1.0" x="364" y="501" z="44" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079558129" />
+      <node id="239" radius="1.0" x="366" y="516" z="44" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079559058" />
+    </nodes>
+    <edges>
+      <edge source="238" target="239" />
+    </edges>
+  </thing>
+  <thing id="123" color.r="0.9647058844566345" color.g="0.6549019813537598" color.b="0.5529412031173706" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_123">
+    <nodes>
+      <node id="242" radius="1.0" x="617" y="507" z="46" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079574146" />
+      <node id="243" radius="1.0" x="610" y="520" z="46" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079575082" />
+    </nodes>
+    <edges>
+      <edge source="242" target="243" />
+    </edges>
+  </thing>
+  <thing id="125" color.r="0.8980392217636108" color.g="1.0" color.b="0.8627451062202454" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_125">
+    <nodes>
+      <node id="246" radius="1.0" x="290" y="126" z="14" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079613493" />
+      <node id="247" radius="1.0" x="296" y="117" z="14" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079614364" />
+    </nodes>
+    <edges>
+      <edge source="246" target="247" />
+    </edges>
+  </thing>
+  <thing id="126" color.r="1.0" color.g="0.6901960968971252" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_126">
+    <nodes>
+      <node id="248" radius="1.0" x="272" y="131" z="29" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079620116" />
+      <node id="249" radius="1.0" x="260" y="125" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079621717" />
+    </nodes>
+    <edges>
+      <edge source="248" target="249" />
+    </edges>
+  </thing>
+  <thing id="127" color.r="0.48235294222831726" color.g="0.27450981736183167" color.b="0.4470588266849518" color.a="1.0" name="explorative_2023-07-11_Mojtaba_Tavakoli_127">
+    <nodes>
+      <node id="250" radius="1.0" x="226" y="312" z="26" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079635382" />
+      <node id="251" radius="1.0" x="213" y="315" z="26" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689079636419" />
+    </nodes>
+    <edges>
+      <edge source="250" target="251" />
+    </edges>
+  </thing>
+  <thing id="128" color.r="0.7254902124404907" color.g="0.48235294222831726" color.b="1.0" color.a="1.0" name="explorative_2023-07-12_Mojtaba_Tavakoli_128">
+    <nodes>
+      <node id="252" radius="1.0" x="385" y="297" z="21" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142071042" />
+      <node id="253" radius="1.0" x="381" y="282" z="21" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142071993" />
+    </nodes>
+    <edges>
+      <edge source="252" target="253" />
+    </edges>
+  </thing>
+  <thing id="129" color.r="0.3803921639919281" color.g="0.6196078658103943" color.b="0.0" color.a="1.0" name="explorative_2023-07-12_Mojtaba_Tavakoli_129">
+    <nodes>
+      <node id="254" radius="1.0" x="402" y="377" z="22" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142085896" />
+      <node id="255" radius="1.0" x="411" y="362" z="22" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142086838" />
+    </nodes>
+    <edges>
+      <edge source="254" target="255" />
+    </edges>
+  </thing>
+  <thing id="130" color.r="1.0" color.g="0.6901960968971252" color.b="0.0" color.a="1.0" name="explorative_2023-07-12_Mojtaba_Tavakoli_130">
+    <nodes>
+      <node id="256" radius="1.0" x="539" y="349" z="12" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142093686" />
+      <node id="257" radius="1.0" x="549" y="344" z="23" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142095286" />
+    </nodes>
+    <edges>
+      <edge source="256" target="257" />
+    </edges>
+  </thing>
+  <thing id="131" color.r="0.1725490242242813" color.g="0.07058823853731155" color.b="0.03529411926865578" color.a="1.0" name="explorative_2023-07-12_Mojtaba_Tavakoli_131">
+    <nodes>
+      <node id="258" radius="1.0" x="236" y="404" z="32" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142101510" />
+      <node id="259" radius="1.0" x="253" y="399" z="29" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142103240" />
+    </nodes>
+    <edges>
+      <edge source="258" target="259" />
+    </edges>
+  </thing>
+  <thing id="132" color.r="0.3450980484485626" color.g="1.0" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-12_Mojtaba_Tavakoli_132">
+    <nodes>
+      <node id="260" radius="1.0" x="298" y="377" z="33" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142108852" />
+      <node id="261" radius="1.0" x="303" y="387" z="25" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142111761" />
+    </nodes>
+    <edges>
+      <edge source="260" target="261" />
+    </edges>
+  </thing>
+  <thing id="133" color.r="0.8274509906768799" color.g="0.7921568751335144" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-12_Mojtaba_Tavakoli_133">
+    <nodes>
+      <node id="262" radius="1.0" x="379" y="234" z="18" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142159308" />
+      <node id="263" radius="1.0" x="385" y="249" z="5" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142163183" />
+      <node id="264" radius="1.0" x="387" y="238" z="27" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142173012" />
+    </nodes>
+    <edges>
+      <edge source="262" target="263" />
+      <edge source="262" target="264" />
+    </edges>
+  </thing>
+  <thing id="134" color.r="0.6901960968971252" color.g="0.48235294222831726" color.b="0.07058823853731155" color.a="1.0" name="explorative_2023-07-12_Mojtaba_Tavakoli_134">
+    <nodes>
+      <node id="265" radius="1.0" x="428" y="134" z="20" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142214259" />
+      <node id="266" radius="1.0" x="422" y="142" z="27" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142216572" />
+    </nodes>
+    <edges>
+      <edge source="265" target="266" />
+    </edges>
+  </thing>
+  <thing id="135" color.r="0.5176470875740051" color.g="0.2078431397676468" color.b="0.03529411926865578" color.a="1.0" name="explorative_2023-07-12_Mojtaba_Tavakoli_135">
+    <nodes>
+      <node id="267" radius="1.0" x="355" y="161" z="32" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142324901" />
+      <node id="268" radius="1.0" x="348" y="160" z="48" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689142327353" />
+    </nodes>
+    <edges>
+      <edge source="267" target="268" />
+    </edges>
+  </thing>
+  <thing id="136" color.r="0.1725490242242813" color.g="0.5176470875740051" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_136">
+    <nodes>
+      <node id="269" radius="1.0" x="283" y="218" z="46" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238605322" />
+      <node id="270" radius="1.0" x="274" y="226" z="46" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238606468" />
+    </nodes>
+    <edges>
+      <edge source="269" target="270" />
+    </edges>
+  </thing>
+  <thing id="137" color.r="0.4156862795352936" color.g="0.07058823853731155" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_137">
+    <nodes>
+      <node id="271" radius="1.0" x="198" y="229" z="43" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238617212" />
+      <node id="272" radius="1.0" x="212" y="234" z="43" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238618317" />
+    </nodes>
+    <edges>
+      <edge source="271" target="272" />
+    </edges>
+  </thing>
+  <thing id="138" color.r="0.4470588266849518" color.g="0.24313725531101227" color.b="1.0" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_138">
+    <nodes>
+      <node id="273" radius="1.0" x="429" y="122" z="64" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238639238" />
+      <node id="274" radius="1.0" x="427" y="118" z="50" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238641502" />
+    </nodes>
+    <edges>
+      <edge source="273" target="274" />
+    </edges>
+  </thing>
+  <thing id="139" color.r="0.1725490242242813" color.g="0.13725490868091583" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_139">
+    <nodes>
+      <node id="275" radius="1.0" x="492" y="167" z="55" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238648320" />
+      <node id="276" radius="1.0" x="496" y="178" z="60" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238650708" />
+    </nodes>
+    <edges>
+      <edge source="275" target="276" />
+    </edges>
+  </thing>
+  <thing id="140" color.r="0.27450981736183167" color.g="0.6901960968971252" color.b="0.9647058844566345" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_140">
+    <nodes>
+      <node id="277" radius="1.0" x="533" y="245" z="47" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238690622" />
+      <node id="278" radius="1.0" x="520" y="242" z="61" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238693521" />
+    </nodes>
+    <edges>
+      <edge source="277" target="278" />
+    </edges>
+  </thing>
+  <thing id="141" color.r="0.2078431397676468" color.g="0.8980392217636108" color.b="0.5529412031173706" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_141">
+    <nodes>
+      <node id="279" radius="1.0" x="563" y="265" z="86" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238702560" />
+      <node id="280" radius="1.0" x="563" y="270" z="95" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238705423" />
+    </nodes>
+    <edges>
+      <edge source="279" target="280" />
+    </edges>
+  </thing>
+  <thing id="142" color.r="1.0" color.g="0.8980392217636108" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_142">
+    <nodes>
+      <node id="281" radius="1.0" x="443" y="270" z="113" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238719039" />
+      <node id="282" radius="1.0" x="442" y="283" z="118" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238720072" />
+    </nodes>
+    <edges>
+      <edge source="281" target="282" />
+    </edges>
+  </thing>
+  <thing id="143" color.r="0.9647058844566345" color.g="0.5176470875740051" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_143">
+    <nodes>
+      <node id="283" radius="1.0" x="405" y="283" z="120" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238785095" />
+      <node id="284" radius="1.0" x="400" y="268" z="131" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238788569" />
+      <node id="285" radius="1.0" x="410" y="288" z="130" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238794030" />
+    </nodes>
+    <edges>
+      <edge source="283" target="284" />
+      <edge source="283" target="285" />
+    </edges>
+  </thing>
+  <thing id="144" color.r="0.3803921639919281" color.g="0.4470588266849518" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_144">
+    <nodes>
+      <node id="286" radius="1.0" x="552" y="66" z="149" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238822351" />
+      <node id="287" radius="1.0" x="537" y="55" z="154" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238829663" />
+    </nodes>
+    <edges>
+      <edge source="286" target="287" />
+    </edges>
+  </thing>
+  <thing id="145" color.r="0.5843137502670288" color.g="0.24313725531101227" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_145">
+    <nodes>
+      <node id="288" radius="1.0" x="525" y="235" z="118" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238853311" />
+      <node id="289" radius="1.0" x="534" y="249" z="118" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238854092" />
+    </nodes>
+    <edges>
+      <edge source="288" target="289" />
+    </edges>
+  </thing>
+  <thing id="146" color.r="0.7568627595901489" color.g="0.8274509906768799" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_146">
+    <nodes>
+      <node id="290" radius="1.0" x="266" y="320" z="123" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689238890397" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="147" color.r="0.6901960968971252" color.g="0.6196078658103943" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_147">
+    <nodes>
+      <node id="291" radius="1.0" x="524" y="650" z="85" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239070784" />
+      <node id="292" radius="1.0" x="511" y="641" z="85" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239072019" />
+    </nodes>
+    <edges>
+      <edge source="291" target="292" />
+    </edges>
+  </thing>
+  <thing id="148" color.r="0.8274509906768799" color.g="0.4470588266849518" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_148">
+    <nodes>
+      <node id="293" radius="1.0" x="477" y="512" z="91" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239086328" />
+      <node id="294" radius="1.0" x="469" y="502" z="91" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239087757" />
+    </nodes>
+    <edges>
+      <edge source="293" target="294" />
+    </edges>
+  </thing>
+  <thing id="149" color.r="0.5529412031173706" color.g="0.9647058844566345" color.b="0.4470588266849518" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_149">
+    <nodes>
+      <node id="295" radius="1.0" x="276" y="663" z="81" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239109366" />
+      <node id="296" radius="1.0" x="267" y="649" z="81" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239110508" />
+    </nodes>
+    <edges>
+      <edge source="295" target="296" />
+    </edges>
+  </thing>
+  <thing id="150" color.r="0.7921568751335144" color.g="0.6196078658103943" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_150">
+    <nodes>
+      <node id="297" radius="1.0" x="466" y="666" z="143" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239173640" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="151" color.r="0.0" color.g="0.8274509906768799" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_151">
+    <nodes>
+      <node id="298" radius="1.0" x="440" y="630" z="134" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239188286" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="152" color.r="0.7254902124404907" color.g="0.48235294222831726" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_152">
+    <nodes>
+      <node id="299" radius="1.0" x="333" y="671" z="145" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239241111" />
+      <node id="300" radius="1.0" x="334" y="685" z="137" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239244066" />
+    </nodes>
+    <edges>
+      <edge source="299" target="300" />
+    </edges>
+  </thing>
+  <thing id="153" color.r="1.0" color.g="0.3803921639919281" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_153">
+    <nodes>
+      <node id="301" radius="1.0" x="232" y="647" z="131" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239269661" />
+      <node id="302" radius="1.0" x="237" y="650" z="143" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239282195" />
+    </nodes>
+    <edges>
+      <edge source="301" target="302" />
+    </edges>
+  </thing>
+  <thing id="154" color.r="0.7921568751335144" color.g="0.13725490868091583" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_154">
+    <nodes>
+      <node id="303" radius="1.0" x="452" y="675" z="50" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239381780" />
+      <node id="304" radius="1.0" x="444" y="664" z="50" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239382839" />
+    </nodes>
+    <edges>
+      <edge source="303" target="304" />
+    </edges>
+  </thing>
+  <thing id="155" color.r="0.5176470875740051" color.g="0.5843137502670288" color.b="0.8627451062202454" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_155">
+    <nodes>
+      <node id="305" radius="1.0" x="453" y="322" z="52" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239410176" />
+      <node id="306" radius="1.0" x="463" y="313" z="59" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239411955" />
+    </nodes>
+    <edges>
+      <edge source="305" target="306" />
+    </edges>
+  </thing>
+  <thing id="156" color.r="0.13725490868091583" color.g="0.0" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_156">
+    <nodes>
+      <node id="307" radius="1.0" x="501" y="351" z="62" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239424604" />
+      <node id="308" radius="1.0" x="499" y="346" z="73" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239427221" />
+    </nodes>
+    <edges>
+      <edge source="307" target="308" />
+    </edges>
+  </thing>
+  <thing id="158" color.r="0.27450981736183167" color.g="0.4156862795352936" color.b="0.0" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_158">
+    <nodes>
+      <node id="311" radius="1.0" x="576" y="634" z="66" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239492709" />
+      <node id="312" radius="1.0" x="588" y="627" z="66" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239493742" />
+    </nodes>
+    <edges>
+      <edge source="311" target="312" />
+    </edges>
+  </thing>
+  <thing id="159" color.r="0.7921568751335144" color.g="0.07058823853731155" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_159">
+    <nodes>
+      <node id="313" radius="1.0" x="542" y="595" z="71" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239519297" />
+      <node id="314" radius="1.0" x="554" y="605" z="64" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239521502" />
+    </nodes>
+    <edges>
+      <edge source="313" target="314" />
+    </edges>
+  </thing>
+  <thing id="160" color.r="0.0" color.g="0.3803921639919281" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_160">
+    <nodes>
+      <node id="315" radius="1.0" x="268" y="299" z="63" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239530640" />
+      <node id="316" radius="1.0" x="260" y="286" z="63" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239532015" />
+    </nodes>
+    <edges>
+      <edge source="315" target="316" />
+    </edges>
+  </thing>
+  <thing id="161" color.r="0.0" color.g="0.5176470875740051" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_161">
+    <nodes>
+      <node id="317" radius="1.0" x="457" y="504" z="41" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239568777" />
+      <node id="318" radius="1.0" x="448" y="488" z="41" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239569798" />
+    </nodes>
+    <edges>
+      <edge source="317" target="318" />
+    </edges>
+  </thing>
+  <thing id="162" color.r="0.30980393290519714" color.g="0.24313725531101227" color.b="0.03529411926865578" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_162">
+    <nodes>
+      <node id="319" radius="1.0" x="514" y="642" z="51" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239584888" />
+      <node id="320" radius="1.0" x="515" y="623" z="51" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239586037" />
+    </nodes>
+    <edges>
+      <edge source="319" target="320" />
+    </edges>
+  </thing>
+  <thing id="163" color.r="0.3803921639919281" color.g="0.6901960968971252" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_163">
+    <nodes>
+      <node id="321" radius="1.0" x="515" y="699" z="41" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239603528" />
+      <node id="322" radius="1.0" x="516" y="693" z="51" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239606661" />
+    </nodes>
+    <edges>
+      <edge source="321" target="322" />
+    </edges>
+  </thing>
+  <thing id="164" color.r="1.0" color.g="0.10196078568696976" color.b="1.0" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_164">
+    <nodes>
+      <node id="323" radius="1.0" x="693" y="662" z="29" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239623767" />
+      <node id="324" radius="1.0" x="683" y="674" z="29" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239624822" />
+    </nodes>
+    <edges>
+      <edge source="323" target="324" />
+    </edges>
+  </thing>
+  <thing id="165" color.r="0.0" color.g="0.3450980484485626" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_165">
+    <nodes>
+      <node id="325" radius="1.0" x="598" y="693" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689239646256" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="166" color.r="0.0" color.g="0.3803921639919281" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_166">
+    <nodes>
+      <node id="326" radius="1.0" x="209" y="330" z="125" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241489059" />
+      <node id="327" radius="1.0" x="214" y="317" z="125" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241490313" />
+    </nodes>
+    <edges>
+      <edge source="326" target="327" />
+    </edges>
+  </thing>
+  <thing id="167" color.r="0.8274509906768799" color.g="0.3803921639919281" color.b="0.1725490242242813" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_167">
+    <nodes>
+      <node id="328" radius="1.0" x="340" y="358" z="80" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241868846" />
+      <node id="329" radius="1.0" x="328" y="369" z="80" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241869856" />
+    </nodes>
+    <edges>
+      <edge source="328" target="329" />
+    </edges>
+  </thing>
+  <thing id="168" color.r="0.8274509906768799" color.g="0.13725490868091583" color.b="0.5843137502670288" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_168">
+    <nodes>
+      <node id="330" radius="1.0" x="269" y="377" z="58" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241883930" />
+      <node id="331" radius="1.0" x="285" y="380" z="58" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241885321" />
+    </nodes>
+    <edges>
+      <edge source="330" target="331" />
+    </edges>
+  </thing>
+  <thing id="169" color.r="0.5529412031173706" color.g="0.1725490242242813" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_169">
+    <nodes>
+      <node id="332" radius="1.0" x="465" y="380" z="57" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241927636" />
+      <node id="333" radius="1.0" x="456" y="380" z="67" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241929489" />
+    </nodes>
+    <edges>
+      <edge source="332" target="333" />
+    </edges>
+  </thing>
+  <thing id="170" color.r="0.7254902124404907" color.g="0.8627451062202454" color.b="0.6549019813537598" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_170">
+    <nodes>
+      <node id="334" radius="1.0" x="35" y="684" z="54" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241993515" />
+      <node id="335" radius="1.0" x="48" y="691" z="54" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689241994772" />
+    </nodes>
+    <edges>
+      <edge source="334" target="335" />
+    </edges>
+  </thing>
+  <thing id="171" color.r="0.3450980484485626" color.g="0.13725490868091583" color.b="0.4156862795352936" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_171">
+    <nodes>
+      <node id="336" radius="1.0" x="119" y="515" z="45" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242012106" />
+      <node id="337" radius="1.0" x="112" y="500" z="45" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242013510" />
+    </nodes>
+    <edges>
+      <edge source="336" target="337" />
+    </edges>
+  </thing>
+  <thing id="172" color.r="0.8980392217636108" color.g="0.8627451062202454" color.b="0.1725490242242813" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_172">
+    <nodes>
+      <node id="338" radius="1.0" x="65" y="517" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242020511" />
+      <node id="339" radius="1.0" x="73" y="506" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242021542" />
+    </nodes>
+    <edges>
+      <edge source="338" target="339" />
+    </edges>
+  </thing>
+  <thing id="173" color.r="1.0" color.g="0.7921568751335144" color.b="0.7254902124404907" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_173">
+    <nodes>
+      <node id="340" radius="1.0" x="178" y="592" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242032153" />
+      <node id="341" radius="1.0" x="179" y="604" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242033163" />
+    </nodes>
+    <edges>
+      <edge source="340" target="341" />
+    </edges>
+  </thing>
+  <thing id="174" color.r="0.5176470875740051" color.g="0.5529412031173706" color.b="0.0" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_174">
+    <nodes>
+      <node id="342" radius="1.0" x="330" y="591" z="21" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242039995" />
+      <node id="343" radius="1.0" x="322" y="605" z="33" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242042419" />
+    </nodes>
+    <edges>
+      <edge source="342" target="343" />
+    </edges>
+  </thing>
+  <thing id="175" color.r="1.0" color.g="0.3450980484485626" color.b="0.5529412031173706" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_175">
+    <nodes>
+      <node id="344" radius="1.0" x="286" y="512" z="41" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242048233" />
+      <node id="345" radius="1.0" x="286" y="526" z="41" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242049182" />
+    </nodes>
+    <edges>
+      <edge source="344" target="345" />
+    </edges>
+  </thing>
+  <thing id="176" color.r="0.929411768913269" color.g="0.7254902124404907" color.b="1.0" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_176">
+    <nodes>
+      <node id="346" radius="1.0" x="359" y="667" z="59" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242058313" />
+      <node id="347" radius="1.0" x="340" y="663" z="59" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242060085" />
+    </nodes>
+    <edges>
+      <edge source="346" target="347" />
+    </edges>
+  </thing>
+  <thing id="178" color.r="0.5176470875740051" color.g="0.8274509906768799" color.b="1.0" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_178">
+    <nodes>
+      <node id="350" radius="1.0" x="122" y="431" z="57" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242073170" />
+      <node id="351" radius="1.0" x="133" y="422" z="57" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242074224" />
+    </nodes>
+    <edges>
+      <edge source="350" target="351" />
+    </edges>
+  </thing>
+  <thing id="179" color.r="0.4470588266849518" color.g="1.0" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_179">
+    <nodes>
+      <node id="352" radius="1.0" x="128" y="344" z="61" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242086264" />
+      <node id="353" radius="1.0" x="114" y="344" z="61" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242086998" />
+    </nodes>
+    <edges>
+      <edge source="352" target="353" />
+    </edges>
+  </thing>
+  <thing id="180" color.r="0.30980393290519714" color.g="0.03529411926865578" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_180">
+    <nodes>
+      <node id="354" radius="1.0" x="419" y="628" z="63" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242096552" />
+      <node id="355" radius="1.0" x="413" y="640" z="63" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242097604" />
+    </nodes>
+    <edges>
+      <edge source="354" target="355" />
+    </edges>
+  </thing>
+  <thing id="182" color.r="0.3803921639919281" color.g="0.6901960968971252" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_182">
+    <nodes>
+      <node id="358" radius="1.0" x="19" y="218" z="180" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242568619" />
+      <node id="359" radius="1.0" x="11" y="218" z="191" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242572135" />
+    </nodes>
+    <edges>
+      <edge source="358" target="359" />
+    </edges>
+  </thing>
+  <thing id="183" color.r="0.5529412031173706" color.g="0.4156862795352936" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-13_Mojtaba_Tavakoli_183">
+    <nodes>
+      <node id="360" radius="1.0" x="131" y="126" z="152" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242915993" />
+      <node id="361" radius="1.0" x="126" y="129" z="138" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689242919258" />
+    </nodes>
+    <edges>
+      <edge source="360" target="361" />
+    </edges>
+  </thing>
+  <thing id="184" color.r="0.7568627595901489" color.g="0.8274509906768799" color.b="0.9647058844566345" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_184">
+    <nodes>
+      <node id="363" radius="1.0" x="99" y="405" z="194" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325467162" />
+      <node id="364" radius="1.0" x="90" y="406" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325471049" />
+      <node id="365" radius="1.0" x="88" y="395" z="197" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325477912" />
+    </nodes>
+    <edges>
+      <edge source="363" target="364" />
+      <edge source="363" target="365" />
+    </edges>
+  </thing>
+  <thing id="185" color.r="0.24313725531101227" color.g="0.27450981736183167" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_185">
+    <nodes>
+      <node id="366" radius="1.0" x="622" y="123" z="190" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325547010" />
+      <node id="367" radius="1.0" x="611" y="120" z="194" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325549678" />
+    </nodes>
+    <edges>
+      <edge source="366" target="367" />
+    </edges>
+  </thing>
+  <thing id="186" color.r="0.8627451062202454" color.g="0.27450981736183167" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_186">
+    <nodes>
+      <node id="368" radius="1.0" x="696" y="80" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325564642" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="187" color.r="0.6901960968971252" color.g="1.0" color.b="0.9647058844566345" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_187">
+    <nodes>
+      <node id="369" radius="1.0" x="117" y="91" z="190" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325787943" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="188" color.r="0.8627451062202454" color.g="1.0" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_188">
+    <nodes>
+      <node id="370" radius="1.0" x="70" y="95" z="192" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325832349" />
+      <node id="371" radius="1.0" x="70" y="90" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689325840362" />
+    </nodes>
+    <edges>
+      <edge source="370" target="371" />
+    </edges>
+  </thing>
+  <thing id="189" color.r="0.6196078658103943" color.g="0.07058823853731155" color.b="0.8980392217636108" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_189">
+    <nodes>
+      <node id="372" radius="1.0" x="175" y="682" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689326031257" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="190" color.r="0.7568627595901489" color.g="0.3450980484485626" color.b="0.4156862795352936" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_190">
+    <nodes>
+      <node id="373" radius="1.0" x="103" y="163" z="156" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689326217968" />
+      <node id="374" radius="1.0" x="109" y="168" z="147" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689326221149" />
+    </nodes>
+    <edges>
+      <edge source="373" target="374" />
+    </edges>
+  </thing>
+  <thing id="191" color.r="0.7921568751335144" color.g="0.6901960968971252" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_191">
+    <nodes>
+      <node id="375" radius="1.0" x="115" y="193" z="157" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689326240615" />
+      <node id="376" radius="1.0" x="128" y="198" z="150" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689326242548" />
+    </nodes>
+    <edges>
+      <edge source="375" target="376" />
+    </edges>
+  </thing>
+  <thing id="192" color.r="0.48235294222831726" color.g="0.003921568859368563" color.b="0.6549019813537598" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_192">
+    <nodes>
+      <node id="377" radius="1.0" x="91" y="201" z="153" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689326448092" />
+      <node id="378" radius="1.0" x="95" y="196" z="153" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689326449941" />
+    </nodes>
+    <edges>
+      <edge source="377" target="378" />
+    </edges>
+  </thing>
+  <thing id="193" color.r="0.07058823853731155" color.g="0.4470588266849518" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_193">
+    <nodes>
+      <node id="379" radius="1.0" x="590" y="152" z="166" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357015078" />
+      <node id="380" radius="1.0" x="596" y="144" z="176" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357019748" />
+      <node id="381" radius="1.0" x="579" y="136" z="154" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357028378" />
+    </nodes>
+    <edges>
+      <edge source="379" target="380" />
+      <edge source="379" target="381" />
+    </edges>
+  </thing>
+  <thing id="194" color.r="1.0" color.g="0.3803921639919281" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_194">
+    <nodes>
+      <node id="382" radius="1.0" x="78" y="637" z="126" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357098729" />
+      <node id="383" radius="1.0" x="96" y="639" z="126" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357100098" />
+    </nodes>
+    <edges>
+      <edge source="382" target="383" />
+    </edges>
+  </thing>
+  <thing id="195" color.r="0.7921568751335144" color.g="0.4470588266849518" color.b="0.0" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_195">
+    <nodes>
+      <node id="384" radius="1.0" x="97" y="608" z="149" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357181088" />
+      <node id="385" radius="1.0" x="92" y="594" z="149" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357183538" />
+    </nodes>
+    <edges>
+      <edge source="384" target="385" />
+    </edges>
+  </thing>
+  <thing id="196" color.r="0.4470588266849518" color.g="0.27450981736183167" color.b="0.1725490242242813" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_196">
+    <nodes>
+      <node id="386" radius="1.0" x="5" y="659" z="140" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357202579" />
+      <node id="387" radius="1.0" x="7" y="649" z="145" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357204291" />
+    </nodes>
+    <edges>
+      <edge source="386" target="387" />
+    </edges>
+  </thing>
+  <thing id="197" color.r="0.48235294222831726" color.g="0.7568627595901489" color.b="0.0" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_197">
+    <nodes>
+      <node id="388" radius="1.0" x="697" y="692" z="86" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357340240" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="198" color.r="0.7568627595901489" color.g="0.8627451062202454" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_198">
+    <nodes>
+      <node id="389" radius="1.0" x="696" y="667" z="104" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357356258" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="199" color.r="0.6901960968971252" color.g="0.5843137502670288" color.b="0.07058823853731155" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_199">
+    <nodes>
+      <node id="390" radius="1.0" x="240" y="696" z="142" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357415978" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="200" color.r="0.3803921639919281" color.g="0.1725490242242813" color.b="0.27450981736183167" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_200">
+    <nodes>
+      <node id="391" radius="1.0" x="70" y="681" z="115" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357505623" />
+      <node id="392" radius="1.0" x="86" y="685" z="115" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357507128" />
+    </nodes>
+    <edges>
+      <edge source="391" target="392" />
+    </edges>
+  </thing>
+  <thing id="201" color.r="0.8274509906768799" color.g="0.48235294222831726" color.b="0.7921568751335144" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_201">
+    <nodes>
+      <node id="393" radius="1.0" x="349" y="670" z="88" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357622640" />
+      <node id="394" radius="1.0" x="348" y="661" z="100" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357626251" />
+    </nodes>
+    <edges>
+      <edge source="393" target="394" />
+    </edges>
+  </thing>
+  <thing id="202" color.r="1.0" color.g="0.30980393290519714" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_202">
+    <nodes>
+      <node id="395" radius="1.0" x="524" y="545" z="60" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357687593" />
+      <node id="396" radius="1.0" x="530" y="553" z="69" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357690966" />
+    </nodes>
+    <edges>
+      <edge source="395" target="396" />
+    </edges>
+  </thing>
+  <thing id="203" color.r="0.30980393290519714" color.g="0.5529412031173706" color.b="1.0" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_203">
+    <nodes>
+      <node id="397" radius="1.0" x="525" y="410" z="75" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357726098" />
+      <node id="398" radius="1.0" x="521" y="433" z="73" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357729878" />
+    </nodes>
+    <edges>
+      <edge source="397" target="398" />
+    </edges>
+  </thing>
+  <thing id="204" color.r="0.6196078658103943" color.g="0.07058823853731155" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_204">
+    <nodes>
+      <node id="399" radius="1.0" x="68" y="276" z="75" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357767403" />
+      <node id="400" radius="1.0" x="70" y="287" z="75" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357768296" />
+    </nodes>
+    <edges>
+      <edge source="399" target="400" />
+    </edges>
+  </thing>
+  <thing id="205" color.r="0.27450981736183167" color.g="0.27450981736183167" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_205">
+    <nodes>
+      <node id="401" radius="1.0" x="11" y="354" z="192" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357890793" />
+      <node id="402" radius="1.0" x="2" y="340" z="192" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357892242" />
+    </nodes>
+    <edges>
+      <edge source="401" target="402" />
+    </edges>
+  </thing>
+  <thing id="206" color.r="0.3803921639919281" color.g="0.8980392217636108" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_206">
+    <nodes>
+      <node id="403" radius="1.0" x="264" y="172" z="85" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357980472" />
+      <node id="404" radius="1.0" x="273" y="166" z="73" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689357985684" />
+    </nodes>
+    <edges>
+      <edge source="403" target="404" />
+    </edges>
+  </thing>
+  <thing id="207" color.r="0.9647058844566345" color.g="0.9647058844566345" color.b="0.5529412031173706" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_207">
+    <nodes>
+      <node id="407" radius="1.0" x="344" y="25" z="71" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358009996" />
+      <node id="408" radius="1.0" x="336" y="37" z="71" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358012201" />
+    </nodes>
+    <edges>
+      <edge source="407" target="408" />
+    </edges>
+  </thing>
+  <thing id="208" color.r="0.6549019813537598" color.g="0.3803921639919281" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_208">
+    <nodes>
+      <node id="409" radius="1.0" x="223" y="217" z="84" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358078319" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="209" color.r="0.0" color.g="0.5529412031173706" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_209">
+    <nodes>
+      <node id="410" radius="1.0" x="185" y="29" z="70" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358175751" />
+      <node id="411" radius="1.0" x="188" y="44" z="70" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358176513" />
+    </nodes>
+    <edges>
+      <edge source="410" target="411" />
+    </edges>
+  </thing>
+  <thing id="210" color.r="1.0" color.g="0.0" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_210">
+    <nodes>
+      <node id="412" radius="1.0" x="178" y="13" z="62" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358185508" />
+      <node id="413" radius="1.0" x="173" y="21" z="54" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358190124" />
+    </nodes>
+    <edges>
+      <edge source="412" target="413" />
+    </edges>
+  </thing>
+  <thing id="211" color.r="0.5529412031173706" color.g="0.30980393290519714" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_211">
+    <nodes>
+      <node id="414" radius="1.0" x="87" y="15" z="49" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358214917" />
+      <node id="415" radius="1.0" x="92" y="30" z="49" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358215768" />
+    </nodes>
+    <edges>
+      <edge source="414" target="415" />
+    </edges>
+  </thing>
+  <thing id="212" color.r="0.7254902124404907" color.g="0.4156862795352936" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_212">
+    <nodes>
+      <node id="416" radius="1.0" x="49" y="290" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358489228" />
+      <node id="417" radius="1.0" x="31" y="288" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358490509" />
+    </nodes>
+    <edges>
+      <edge source="416" target="417" />
+    </edges>
+  </thing>
+  <thing id="213" color.r="0.8274509906768799" color.g="0.6196078658103943" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_213">
+    <nodes>
+      <node id="418" radius="1.0" x="141" y="215" z="5" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358504436" />
+      <node id="419" radius="1.0" x="155" y="223" z="5" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358505259" />
+    </nodes>
+    <edges>
+      <edge source="418" target="419" />
+    </edges>
+  </thing>
+  <thing id="214" color.r="0.0" color.g="0.3803921639919281" color.b="0.1725490242242813" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_214">
+    <nodes>
+      <node id="420" radius="1.0" x="61" y="170" z="33" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358532710" />
+      <node id="421" radius="1.0" x="70" y="157" z="33" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358533731" />
+    </nodes>
+    <edges>
+      <edge source="420" target="421" />
+    </edges>
+  </thing>
+  <thing id="215" color.r="1.0" color.g="0.8274509906768799" color.b="0.8980392217636108" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_215">
+    <nodes>
+      <node id="422" radius="1.0" x="418" y="236" z="10" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358551606" />
+      <node id="423" radius="1.0" x="404" y="222" z="10" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358552797" />
+    </nodes>
+    <edges>
+      <edge source="422" target="423" />
+    </edges>
+  </thing>
+  <thing id="216" color.r="0.5843137502670288" color.g="0.07058823853731155" color.b="0.10196078568696976" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_216">
+    <nodes>
+      <node id="424" radius="1.0" x="64" y="213" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358577428" />
+      <node id="425" radius="1.0" x="75" y="231" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358589657" />
+      <node id="426" radius="1.0" x="75" y="195" z="10" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358594465" />
+    </nodes>
+    <edges>
+      <edge source="424" target="425" />
+      <edge source="424" target="426" />
+    </edges>
+  </thing>
+  <thing id="217" color.r="0.4156862795352936" color.g="0.8274509906768799" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_217">
+    <nodes>
+      <node id="427" radius="1.0" x="268" y="171" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358632110" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="218" color.r="0.2078431397676468" color.g="0.03529411926865578" color.b="0.4470588266849518" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_218">
+    <nodes>
+      <node id="428" radius="1.0" x="216" y="217" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358649702" />
+      <node id="429" radius="1.0" x="218" y="211" z="12" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358653466" />
+    </nodes>
+    <edges>
+      <edge source="428" target="429" />
+    </edges>
+  </thing>
+  <thing id="219" color.r="0.48235294222831726" color.g="0.8274509906768799" color.b="0.8627451062202454" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_219">
+    <nodes>
+      <node id="430" radius="1.0" x="143" y="422" z="22" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358669037" />
+      <node id="431" radius="1.0" x="142" y="410" z="28" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358672385" />
+    </nodes>
+    <edges>
+      <edge source="430" target="431" />
+    </edges>
+  </thing>
+  <thing id="220" color.r="0.0" color.g="0.10196078568696976" color.b="0.1725490242242813" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_220">
+    <nodes>
+      <node id="432" radius="1.0" x="29" y="459" z="20" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358698183" />
+      <node id="433" radius="1.0" x="8" y="464" z="20" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358701679" />
+      <node id="434" radius="1.0" x="38" y="432" z="15" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358705448" />
+    </nodes>
+    <edges>
+      <edge source="432" target="433" />
+      <edge source="432" target="434" />
+    </edges>
+  </thing>
+  <thing id="221" color.r="0.8627451062202454" color.g="0.0" color.b="0.03529411926865578" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_221">
+    <nodes>
+      <node id="435" radius="1.0" x="56" y="564" z="22" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358725606" />
+      <node id="436" radius="1.0" x="65" y="558" z="30" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358727542" />
+    </nodes>
+    <edges>
+      <edge source="435" target="436" />
+    </edges>
+  </thing>
+  <thing id="222" color.r="0.6196078658103943" color.g="0.48235294222831726" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_222">
+    <nodes>
+      <node id="437" radius="1.0" x="190" y="441" z="66" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358783286" />
+      <node id="438" radius="1.0" x="187" y="435" z="57" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1689358786678" />
+    </nodes>
+    <edges>
+      <edge source="437" target="438" />
+    </edges>
+  </thing>
+  <thing id="223" color.r="0.4470588266849518" color.g="0.4156862795352936" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-14_Mojtaba_Tavakoli_223">
+    <nodes>
+      <node id="439" radius="1.0" x="497" y="458" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205854622" />
+      <node id="440" radius="1.0" x="500" y="449" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205855930" />
+    </nodes>
+    <edges>
+      <edge source="439" target="440" />
+    </edges>
+  </thing>
+  <thing id="224" color.r="0.7921568751335144" color.g="0.5176470875740051" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_224">
+    <nodes>
+      <node id="441" radius="1.0" x="632" y="373" z="12" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205872112" />
+      <node id="442" radius="1.0" x="620" y="360" z="12" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205872811" />
+    </nodes>
+    <edges>
+      <edge source="441" target="442" />
+    </edges>
+  </thing>
+  <thing id="225" color.r="0.6196078658103943" color.g="0.03529411926865578" color.b="0.6549019813537598" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_225">
+    <nodes>
+      <node id="443" radius="1.0" x="596" y="432" z="11" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205897510" />
+      <node id="444" radius="1.0" x="594" y="448" z="2" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205899471" />
+    </nodes>
+    <edges>
+      <edge source="443" target="444" />
+    </edges>
+  </thing>
+  <thing id="226" color.r="1.0" color.g="0.4156862795352936" color.b="0.0" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_226">
+    <nodes>
+      <node id="445" radius="1.0" x="645" y="486" z="4" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205919502" />
+      <node id="446" radius="1.0" x="633" y="500" z="4" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205920367" />
+    </nodes>
+    <edges>
+      <edge source="445" target="446" />
+    </edges>
+  </thing>
+  <thing id="227" color.r="1.0" color.g="0.5529412031173706" color.b="0.929411768913269" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_227">
+    <nodes>
+      <node id="447" radius="1.0" x="215" y="578" z="1" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205939846" />
+      <node id="448" radius="1.0" x="216" y="595" z="1" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205941327" />
+    </nodes>
+    <edges>
+      <edge source="447" target="448" />
+    </edges>
+  </thing>
+  <thing id="228" color.r="0.7568627595901489" color.g="1.0" color.b="0.7254902124404907" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_228">
+    <nodes>
+      <node id="449" radius="1.0" x="311" y="654" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205949030" />
+      <node id="450" radius="1.0" x="293" y="655" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205950082" />
+    </nodes>
+    <edges>
+      <edge source="449" target="450" />
+    </edges>
+  </thing>
+  <thing id="229" color.r="0.7568627595901489" color.g="0.8274509906768799" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_229">
+    <nodes>
+      <node id="451" radius="1.0" x="402" y="664" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205958678" />
+      <node id="452" radius="1.0" x="387" y="662" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205960015" />
+    </nodes>
+    <edges>
+      <edge source="451" target="452" />
+    </edges>
+  </thing>
+  <thing id="230" color.r="0.8980392217636108" color.g="0.5529412031173706" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_230">
+    <nodes>
+      <node id="453" radius="1.0" x="465" y="692" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205963214" />
+      <node id="454" radius="1.0" x="459" y="675" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690205963895" />
+    </nodes>
+    <edges>
+      <edge source="453" target="454" />
+    </edges>
+  </thing>
+  <thing id="231" color.r="0.24313725531101227" color.g="0.1725490242242813" color.b="0.6549019813537598" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_231">
+    <nodes>
+      <node id="455" radius="1.0" x="432" y="662" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690206015511" />
+      <node id="456" radius="1.0" x="437" y="647" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690206016399" />
+    </nodes>
+    <edges>
+      <edge source="455" target="456" />
+    </edges>
+  </thing>
+  <thing id="232" color.r="0.3803921639919281" color.g="0.6549019813537598" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_232">
+    <nodes>
+      <node id="457" radius="1.0" x="97" y="534" z="2" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208484825" />
+      <node id="458" radius="1.0" x="92" y="518" z="2" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208485906" />
+    </nodes>
+    <edges>
+      <edge source="457" target="458" />
+    </edges>
+  </thing>
+  <thing id="233" color.r="0.6196078658103943" color.g="0.003921568859368563" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_233">
+    <nodes>
+      <node id="459" radius="1.0" x="118" y="647" z="6" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208521809" />
+      <node id="460" radius="1.0" x="128" y="661" z="6" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208522810" />
+    </nodes>
+    <edges>
+      <edge source="459" target="460" />
+    </edges>
+  </thing>
+  <thing id="234" color.r="0.5176470875740051" color.g="0.5176470875740051" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_234">
+    <nodes>
+      <node id="461" radius="1.0" x="412" y="576" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208532601" />
+      <node id="462" radius="1.0" x="393" y="579" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208533420" />
+    </nodes>
+    <edges>
+      <edge source="461" target="462" />
+    </edges>
+  </thing>
+  <thing id="235" color.r="1.0" color.g="0.48235294222831726" color.b="0.2078431397676468" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_235">
+    <nodes>
+      <node id="463" radius="1.0" x="584" y="315" z="7" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208555769" />
+      <node id="464" radius="1.0" x="581" y="297" z="7" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208557474" />
+    </nodes>
+    <edges>
+      <edge source="463" target="464" />
+    </edges>
+  </thing>
+  <thing id="236" color.r="0.3450980484485626" color.g="0.3450980484485626" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_236">
+    <nodes>
+      <node id="465" radius="1.0" x="414" y="491" z="20" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208599014" />
+      <node id="466" radius="1.0" x="404" y="500" z="20" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208600100" />
+    </nodes>
+    <edges>
+      <edge source="465" target="466" />
+    </edges>
+  </thing>
+  <thing id="237" color.r="0.30980393290519714" color.g="0.7568627595901489" color.b="0.1725490242242813" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_237">
+    <nodes>
+      <node id="467" radius="1.0" x="183" y="495" z="21" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208612898" />
+      <node id="468" radius="1.0" x="171" y="508" z="21" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208613709" />
+    </nodes>
+    <edges>
+      <edge source="467" target="468" />
+    </edges>
+  </thing>
+  <thing id="238" color.r="0.5529412031173706" color.g="0.6901960968971252" color.b="0.0" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_238">
+    <nodes>
+      <node id="469" radius="1.0" x="149" y="615" z="18" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208640049" />
+      <node id="470" radius="1.0" x="158" y="619" z="26" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208642005" />
+    </nodes>
+    <edges>
+      <edge source="469" target="470" />
+    </edges>
+  </thing>
+  <thing id="239" color.r="0.7568627595901489" color.g="0.7254902124404907" color.b="0.9647058844566345" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_239">
+    <nodes>
+      <node id="471" radius="1.0" x="695" y="421" z="25" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208705215" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="240" color.r="1.0" color.g="0.8627451062202454" color.b="0.30980393290519714" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_240">
+    <nodes>
+      <node id="472" radius="1.0" x="73" y="424" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208743194" />
+      <node id="473" radius="1.0" x="67" y="407" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208744081" />
+    </nodes>
+    <edges>
+      <edge source="472" target="473" />
+    </edges>
+  </thing>
+  <thing id="241" color.r="0.4470588266849518" color.g="0.3803921639919281" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_241">
+    <nodes>
+      <node id="474" radius="1.0" x="412" y="212" z="45" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208781962" />
+      <node id="475" radius="1.0" x="413" y="214" z="29" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208785293" />
+    </nodes>
+    <edges>
+      <edge source="474" target="475" />
+    </edges>
+  </thing>
+  <thing id="242" color.r="0.4470588266849518" color.g="0.1725490242242813" color.b="0.10196078568696976" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_242">
+    <nodes>
+      <node id="476" radius="1.0" x="607" y="353" z="59" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208821747" />
+      <node id="477" radius="1.0" x="617" y="350" z="51" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208824141" />
+    </nodes>
+    <edges>
+      <edge source="476" target="477" />
+    </edges>
+  </thing>
+  <thing id="243" color.r="0.27450981736183167" color.g="0.03529411926865578" color.b="0.0" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_243">
+    <nodes>
+      <node id="478" radius="1.0" x="532" y="418" z="31" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208843763" />
+      <node id="479" radius="1.0" x="521" y="416" z="26" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208845582" />
+    </nodes>
+    <edges>
+      <edge source="478" target="479" />
+    </edges>
+  </thing>
+  <thing id="244" color.r="0.5176470875740051" color.g="0.27450981736183167" color.b="0.5529412031173706" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_244">
+    <nodes>
+      <node id="480" radius="1.0" x="550" y="392" z="44" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208876716" />
+      <node id="481" radius="1.0" x="558" y="386" z="51" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690208878774" />
+    </nodes>
+    <edges>
+      <edge source="480" target="481" />
+    </edges>
+  </thing>
+  <thing id="245" color.r="0.4156862795352936" color.g="0.24313725531101227" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_245">
+    <nodes>
+      <node id="482" radius="1.0" x="591" y="284" z="77" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690209008796" />
+      <node id="483" radius="1.0" x="595" y="295" z="67" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690209010558" />
+    </nodes>
+    <edges>
+      <edge source="482" target="483" />
+    </edges>
+  </thing>
+  <thing id="246" color.r="0.5176470875740051" color.g="0.6196078658103943" color.b="1.0" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_246">
+    <nodes>
+      <node id="484" radius="1.0" x="76" y="5" z="199" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690209864578" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="247" color.r="0.3803921639919281" color.g="0.0" color.b="0.4156862795352936" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_247">
+    <nodes>
+      <node id="485" radius="1.0" x="6" y="662" z="189" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690209974675" />
+      <node id="486" radius="1.0" x="7" y="674" z="197" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690209977069" />
+    </nodes>
+    <edges>
+      <edge source="485" target="486" />
+    </edges>
+  </thing>
+  <thing id="248" color.r="0.6196078658103943" color.g="0.2078431397676468" color.b="0.0" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_248">
+    <nodes>
+      <node id="487" radius="1.0" x="697" y="448" z="120" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210511447" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="249" color.r="0.48235294222831726" color.g="0.9647058844566345" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_249">
+    <nodes>
+      <node id="488" radius="1.0" x="696" y="554" z="99" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210583447" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="250" color.r="0.2078431397676468" color.g="0.3450980484485626" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_250">
+    <nodes>
+      <node id="489" radius="1.0" x="4" y="276" z="103" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210723535" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="251" color.r="0.0" color.g="0.6549019813537598" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_251">
+    <nodes>
+      <node id="490" radius="1.0" x="68" y="570" z="80" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210770160" />
+      <node id="491" radius="1.0" x="68" y="579" z="85" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210771723" />
+    </nodes>
+    <edges>
+      <edge source="490" target="491" />
+    </edges>
+  </thing>
+  <thing id="252" color.r="0.5529412031173706" color.g="0.003921568859368563" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_252">
+    <nodes>
+      <node id="492" radius="1.0" x="194" y="592" z="92" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210788352" />
+      <node id="493" radius="1.0" x="202" y="604" z="84" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210791382" />
+    </nodes>
+    <edges>
+      <edge source="492" target="493" />
+    </edges>
+  </thing>
+  <thing id="253" color.r="0.7254902124404907" color.g="0.5529412031173706" color.b="0.9647058844566345" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_253">
+    <nodes>
+      <node id="494" radius="1.0" x="4" y="568" z="86" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210812026" />
+      <node id="495" radius="1.0" x="10" y="557" z="86" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210813058" />
+    </nodes>
+    <edges>
+      <edge source="494" target="495" />
+    </edges>
+  </thing>
+  <thing id="254" color.r="0.3450980484485626" color.g="0.5176470875740051" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_254">
+    <nodes>
+      <node id="496" radius="1.0" x="14" y="480" z="80" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210827064" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="255" color.r="0.13725490868091583" color.g="0.03529411926865578" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_255">
+    <nodes>
+      <node id="497" radius="1.0" x="4" y="370" z="76" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210846185" />
+      <node id="498" radius="1.0" x="6" y="356" z="76" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690210846844" />
+    </nodes>
+    <edges>
+      <edge source="497" target="498" />
+    </edges>
+  </thing>
+  <thing id="256" color.r="0.6196078658103943" color.g="0.7254902124404907" color.b="0.3450980484485626" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_256">
+    <nodes>
+      <node id="499" radius="1.0" x="255" y="528" z="34" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211203787" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="257" color.r="0.7921568751335144" color.g="0.24313725531101227" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_257">
+    <nodes>
+      <node id="500" radius="1.0" x="455" y="452" z="9" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211266627" />
+      <node id="501" radius="1.0" x="473" y="449" z="9" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211267785" />
+    </nodes>
+    <edges>
+      <edge source="500" target="501" />
+    </edges>
+  </thing>
+  <thing id="258" color.r="0.6901960968971252" color.g="0.5529412031173706" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_258">
+    <nodes>
+      <node id="502" radius="1.0" x="90" y="370" z="72" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211393405" />
+      <node id="503" radius="1.0" x="107" y="377" z="72" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211396218" />
+      <node id="504" radius="1.0" x="78" y="380" z="72" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211400736" />
+    </nodes>
+    <edges>
+      <edge source="502" target="504" />
+      <edge source="502" target="503" />
+    </edges>
+  </thing>
+  <thing id="259" color.r="0.8274509906768799" color.g="0.7568627595901489" color.b="0.27450981736183167" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_259">
+    <nodes>
+      <node id="505" radius="1.0" x="35" y="220" z="63" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211420524" />
+      <node id="506" radius="1.0" x="21" y="217" z="71" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211423578" />
+    </nodes>
+    <edges>
+      <edge source="505" target="506" />
+    </edges>
+  </thing>
+  <thing id="260" color.r="0.48235294222831726" color.g="0.003921568859368563" color.b="0.6901960968971252" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_260">
+    <nodes>
+      <node id="507" radius="1.0" x="15" y="171" z="70" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211434606" />
+      <node id="508" radius="1.0" x="12" y="163" z="64" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211436857" />
+    </nodes>
+    <edges>
+      <edge source="507" target="508" />
+    </edges>
+  </thing>
+  <thing id="261" color.r="0.3450980484485626" color.g="0.5176470875740051" color.b="0.5176470875740051" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_261">
+    <nodes>
+      <node id="509" radius="1.0" x="122" y="174" z="82" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211447654" />
+      <node id="510" radius="1.0" x="137" y="187" z="83" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211451393" />
+    </nodes>
+    <edges>
+      <edge source="509" target="510" />
+    </edges>
+  </thing>
+  <thing id="262" color.r="0.4156862795352936" color.g="0.03529411926865578" color.b="0.27450981736183167" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_262">
+    <nodes>
+      <node id="511" radius="1.0" x="56" y="125" z="86" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211460230" />
+      <node id="512" radius="1.0" x="61" y="122" z="72" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211464195" />
+    </nodes>
+    <edges>
+      <edge source="511" target="512" />
+    </edges>
+  </thing>
+  <thing id="263" color.r="0.6549019813537598" color.g="0.24313725531101227" color.b="0.4470588266849518" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_263">
+    <nodes>
+      <node id="513" radius="1.0" x="65" y="277" z="57" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211492045" />
+      <node id="514" radius="1.0" x="58" y="291" z="57" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211493025" />
+    </nodes>
+    <edges>
+      <edge source="513" target="514" />
+    </edges>
+  </thing>
+  <thing id="264" color.r="0.27450981736183167" color.g="0.2078431397676468" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_264">
+    <nodes>
+      <node id="515" radius="1.0" x="223" y="128" z="32" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211536918" />
+      <node id="516" radius="1.0" x="225" y="132" z="21" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211539168" />
+    </nodes>
+    <edges>
+      <edge source="515" target="516" />
+    </edges>
+  </thing>
+  <thing id="265" color.r="0.3450980484485626" color.g="0.13725490868091583" color.b="1.0" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_265">
+    <nodes>
+      <node id="517" radius="1.0" x="528" y="169" z="5" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211599789" />
+      <node id="518" radius="1.0" x="536" y="185" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690211602688" />
+    </nodes>
+    <edges>
+      <edge source="517" target="518" />
+    </edges>
+  </thing>
+  <thing id="266" color.r="0.0" color.g="0.6196078658103943" color.b="0.24313725531101227" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_266">
+    <nodes>
+      <node id="519" radius="1.0" x="368" y="691" z="47" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690213184697" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="267" color.r="0.0" color.g="0.24313725531101227" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_267">
+    <nodes>
+      <node id="520" radius="1.0" x="148" y="626" z="70" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690213472529" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="268" color.r="0.0" color.g="0.8627451062202454" color.b="0.9647058844566345" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_268">
+    <nodes>
+      <node id="521" radius="1.0" x="102" y="597" z="86" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690213488747" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="269" color.r="0.8274509906768799" color.g="0.0" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_269">
+    <nodes>
+      <node id="522" radius="1.0" x="397" y="167" z="175" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690213675747" />
+      <node id="523" radius="1.0" x="390" y="151" z="175" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690213677925" />
+    </nodes>
+    <edges>
+      <edge source="522" target="523" />
+    </edges>
+  </thing>
+  <thing id="270" color.r="1.0" color.g="0.6901960968971252" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_270">
+    <nodes>
+      <node id="524" radius="1.0" x="517" y="273" z="7" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690215068622" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="271" color.r="0.07058823853731155" color.g="0.6196078658103943" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_271">
+    <nodes>
+      <node id="525" radius="1.0" x="299" y="189" z="51" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690215832044" />
+      <node id="526" radius="1.0" x="303" y="167" z="51" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="true" time="1690215833519" />
+    </nodes>
+    <edges>
+      <edge source="525" target="526" />
+    </edges>
+  </thing>
+  <thing id="272" color.r="0.0" color.g="0.8627451062202454" color.b="0.7254902124404907" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_272">
+    <nodes>
+      <node id="527" radius="1.0" x="281" y="578" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690216354006" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="273" color.r="0.27450981736183167" color.g="0.3450980484485626" color.b="0.48235294222831726" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_273">
+    <nodes>
+      <node id="528" radius="1.0" x="233" y="449" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690216368262" />
+      <node id="529" radius="1.0" x="237" y="466" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690216368905" />
+    </nodes>
+    <edges>
+      <edge source="528" target="529" />
+    </edges>
+  </thing>
+  <thing id="274" color.r="0.9647058844566345" color.g="0.9647058844566345" color.b="0.7568627595901489" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_274">
+    <nodes>
+      <node id="530" radius="1.0" x="175" y="585" z="0" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690216451264" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="275" color.r="0.8980392217636108" color.g="0.3803921639919281" color.b="1.0" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_275">
+    <nodes>
+      <node id="531" radius="1.0" x="17" y="33" z="111" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690216848666" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="276" color.r="0.8274509906768799" color.g="0.5529412031173706" color.b="0.6196078658103943" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_276">
+    <nodes>
+      <node id="532" radius="1.0" x="654" y="507" z="120" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690217117716" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="277" color.r="0.2078431397676468" color.g="0.3450980484485626" color.b="0.5843137502670288" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_277">
+    <nodes>
+      <node id="533" radius="1.0" x="589" y="507" z="115" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690217168333" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="278" color.r="0.5529412031173706" color.g="0.6549019813537598" color.b="0.3803921639919281" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_278">
+    <nodes>
+      <node id="534" radius="1.0" x="492" y="561" z="100" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690217225444" />
+    </nodes>
+    <edges />
+  </thing>
+  <thing id="279" color.r="0.5843137502670288" color.g="0.6901960968971252" color.b="0.8274509906768799" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_279">
+    <nodes>
+      <node id="535" radius="1.0" x="323" y="513" z="64" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690217335092" />
+      <node id="536" radius="1.0" x="328" y="523" z="69" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690217336671" />
+    </nodes>
+    <edges>
+      <edge source="535" target="536" />
+    </edges>
+  </thing>
+  <thing id="280" color.r="0.10196078568696976" color.g="0.13725490868091583" color.b="0.13725490868091583" color.a="1.0" name="explorative_2023-07-24_Mojtaba_Tavakoli_280">
+    <nodes>
+      <node id="537" radius="1.0" x="157" y="698" z="83" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690217380405" />
+      <node id="538" radius="1.0" x="136" y="696" z="83" rotX="0.0" rotY="0.0" rotZ="0.0" inVp="0" inMag="0" bitDepth="8" interpolation="false" time="1690217381679" />
+    </nodes>
+    <edges>
+      <edge source="537" target="538" />
+    </edges>
+  </thing>
+  <branchpoints>
+    <branchpoint id="502" time="1690211397983" />
+    <branchpoint id="432" time="1689358703664" />
+    <branchpoint id="424" time="1689358591440" />
+    <branchpoint id="379" time="1689357025631" />
+    <branchpoint id="363" time="1689325475577" />
+  </branchpoints>
+  <comments>
+    <comment node="27" content="pre only" />
+    <comment node="32" content="post only" />
+    <comment node="33" content="post only" />
+    <comment node="88" content="pre only" />
+    <comment node="131" content="pre" />
+    <comment node="262" content="pre" />
+    <comment node="283" content="post" />
+    <comment node="290" content="pre only" />
+    <comment node="297" content="pre only" />
+    <comment node="298" content="pre only" />
+    <comment node="325" content="post only" />
+    <comment node="365" content="post" />
+    <comment node="368" content="pre" />
+    <comment node="369" content="pre only" />
+    <comment node="372" content="post only" />
+    <comment node="388" content="pre only" />
+    <comment node="389" content="post only" />
+    <comment node="390" content="pre only" />
+    <comment node="409" content="pre only" />
+    <comment node="426" content="pre" />
+    <comment node="427" content="post only" />
+    <comment node="434" content="pre " />
+    <comment node="471" content="pre only" />
+    <comment node="484" content="pre only" />
+    <comment node="487" content="pre only" />
+    <comment node="488" content="pre only" />
+    <comment node="489" content="post only" />
+    <comment node="496" content="pre only" />
+    <comment node="499" content="pre only" />
+    <comment node="504" content="pre" />
+    <comment node="519" content="pre only" />
+    <comment node="520" content="pre only" />
+    <comment node="521" content="pre only" />
+    <comment node="524" content="pre only" />
+    <comment node="527" content="pre only" />
+    <comment node="530" content="pre only" />
+    <comment node="531" content="pre only" />
+    <comment node="532" content="pre only" />
+    <comment node="533" content="pre only" />
+    <comment node="534" content="pre only" />
+  </comments>
+  <groups />
+</things>
