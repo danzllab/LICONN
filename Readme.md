@@ -9,7 +9,7 @@ Tavakoli et al., Light-microscopy based dense connectomic reconstruction of mamm
 
 2) [Synapse detection and connectivity analysis](./Synapse_detection_and_Connectivity_analysis/)
 
-    This directory contains the code and data to perform synapse detection and connectivity analysis. Parts of the demo datasets, required to test the code, are too large to be directly uploaded to the Git repository. They can be accessed and downloaded at the Institute of Science and Technology Austria’s data repository:
-https://doi.org/10.15479/AT:ISTA:18697 (https://research-explorer.ista.ac.at/record/18697) 
+    This directory contains the code and data to perform synapse detection and connectivity analysis. Parts of the demo datasets and deep learning models, required to test the code, are too large to be directly uploaded to the Git repository. They can be accessed and downloaded at the Institute of Science and Technology Austria’s data repository:
+https://doi.org/10.15479/AT:ISTA:18697 (https://research-explorer.ista.ac.at/record/18697), following the link under "Software/ Ext. Data".
 
 This project includes third-party software licensed under the MIT License and the Allen Institute Software License. See LICENSE.txt for details.
